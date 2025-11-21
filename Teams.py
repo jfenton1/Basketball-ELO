@@ -14,6 +14,8 @@ class Team:
             self.level = 3
         elif self.conference in ['American', 'Coastal Athletic Association', 'America East', 'Atlantic Sun', 'Conference USA', 'Big South', 'Atlantic 10', 'Mid-American', 'Big Sky', 'Summit', 'Western Athletic', 'Sun Belt', 'Big West', 'Missouri Valley', 'Horizon League', 'Ivy League', 'Metro Atlantic Athletic', 'Mid-Eastern', 'Southwestern Athletic', 'Mountain West', 'Northeast', 'Ohio Valley', 'Pac-12', 'Patriot League''Southern', 'Southland', 'West Coast']:
             self.level = 2
+        elif self.conference in ['Eastern', 'Western']:
+            self.level = 4
         else:
             self.level = 1
 
@@ -45,7 +47,7 @@ class Division:
     
     def play_game(self, away_id, home_id, away_score, home_score, neutral_site):
         game_level = min(self.teams[home_id].level, self.teams[away_id].level)
-        if game_level == 3:
+        if game_level >= 3:
             k = 40
         elif game_level == 2:
             k = 20
