@@ -20,7 +20,7 @@ class Team:
             self.level = 1
 
     def print_attributes(self):
-        print(f"Team ID: {self.id} \nTeam Key: {self.key} \nSchool: {self.name} \nMascot: {self.mascot} \nCurrent ELO: {self.elo} \nConference: {self.conference} \nWins: {self.wins} \nLosses: {self.losses}")
+        print(f"Team ID: {self.id} \nTeam Key: {self.key} \nSchool or City: {self.name} \nMascot: {self.mascot} \nCurrent ELO: {self.elo} \nConference: {self.conference} \nWins: {self.wins} \nLosses: {self.losses}")
     
     def set_elo(self, val):
         self.elo = val
@@ -95,7 +95,7 @@ class Division:
             self.teams[away_id].wins += 1
             self.teams[home_id].losses += 1
 
-        return home_elo, away_elo, self.teams[home_id].elo, self.teams[away_id].elo, k
+        return home_elo, away_elo, self.teams[home_id].elo, self.teams[away_id].elo, k, adjustment
     
     def to_csv(self, filename):
         results = []
@@ -109,7 +109,7 @@ class Division:
             results.append({
                 'ID': self.teams[team].id,
                 'Key': self.teams[team].key,
-                'School': self.teams[team].name,
+                'Name': self.teams[team].name,
                 'Mascot': self.teams[team].mascot,
                 'Conference': conf,
                 'ELO': elo,
