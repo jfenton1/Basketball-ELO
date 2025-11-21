@@ -188,4 +188,16 @@ def nba_elo(n):
     division.to_csv('current_nba_elos.csv')
     
 
-nba_elo(1)
+# nba_elo(1)
+
+def main_function():
+    which_level = input('Would you like to compute the ELOs for current NBA or NCAAM teams? (NBA/NCAA) ')
+
+    if which_level == 'NBA':
+        nba_elo(1)
+    elif which_level in ['NCAA', 'NCAAM']:
+        ncaa_elo(1)
+    else:
+        print('Not a valid response. Please try again with \'NBA\' or \'NCAA\'')
+
+main_function()
