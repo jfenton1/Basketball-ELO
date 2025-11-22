@@ -200,7 +200,7 @@ def main_function():
     else:
         print('Not a valid response. Please try again with \'NBA\' or \'NCAA\'')
 
-# main_function()
+main_function()
 
 def find_home_name(HomeID, elo_df):
     home_df = elo_df[elo_df.ID == HomeID]

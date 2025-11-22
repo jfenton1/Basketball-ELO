@@ -1,34 +1,34 @@
 ,ID,Key,Name,Mascot,Conference,ELO,Record
-17,18,OKC,Oklahoma City,Thunder,Western,1176.6128669783443,15 - 1
+17,18,OKC,Oklahoma City,Thunder,Western,1184.7628052808302,16 - 1
 13,14,DET,Detroit,Pistons,Eastern,1157.0033192508565,13 - 2
-21,22,HOU,Houston,Rockets,Western,1115.4166704667273,10 - 3
+19,20,DEN,Denver,Nuggets,Western,1125.0524649113397,12 - 3
 26,27,LAL,Los Angeles,Lakers,Western,1107.057685833267,11 - 4
-19,20,DEN,Denver,Nuggets,Western,1104.4196360420274,11 - 3
+21,22,HOU,Houston,Rockets,Western,1094.783841597415,10 - 4
+9,10,TOR,Toronto,Raptors,Eastern,1093.9546923507114,11 - 5
 23,24,SA,San Antonio,Spurs,Western,1088.247666467826,11 - 4
-9,10,TOR,Toronto,Raptors,Eastern,1086.827320801711,10 - 5
-3,4,MIA,Miami,Heat,Eastern,1066.8284961445515,9 - 6
-15,16,MIN,Minnesota,Timberwolves,Western,1059.5843067654114,10 - 5
-11,12,CLE,Cleveland,Cavaliers,Eastern,1057.2709732035387,10 - 6
+3,4,MIA,Miami,Heat,Eastern,1084.410449024914,10 - 6
+28,29,PHO,Phoenix,Suns,Western,1067.9678210203328,10 - 6
+11,12,CLE,Cleveland,Cavaliers,Eastern,1066.7889896412166,11 - 6
 5,6,NY,New York,Knicks,Eastern,1052.930220310914,9 - 5
-28,29,PHO,Phoenix,Suns,Western,1047.258593437385,9 - 6
 4,5,ORL,Orlando,Magic,Eastern,1044.7768490224878,9 - 7
+15,16,MIN,Minnesota,Timberwolves,Western,1038.8750791824634,10 - 6
 2,3,ATL,Atlanta,Hawks,Eastern,1038.749099814989,9 - 7
 6,7,PHI,Philadelphia,76ers,Eastern,1038.515203501806,9 - 6
-10,11,CHI,Chicago,Bulls,Eastern,1024.6162298061788,8 - 6
-8,9,BOS,Boston,Celtics,Eastern,1017.7803150733383,8 - 7
-25,26,GS,Golden State,Warriors,Western,1006.9749557445721,9 - 8
+10,11,CHI,Chicago,Bulls,Eastern,1007.0342769258164,8 - 7
+8,9,BOS,Boston,Celtics,Eastern,989.375037769363,8 - 8
+25,26,GS,Golden State,Warriors,Western,983.3655990314213,9 - 9
 14,15,MIL,Milwaukee,Bucks,Eastern,977.2318359223311,8 - 8
-18,19,POR,Portland,Trail Blazers,Western,943.5796936561036,6 - 9
-16,17,UTA,Utah,Jazz,Western,939.830484200982,5 - 9
+18,19,POR,Portland,Trail Blazers,Western,967.1890503692543,7 - 9
+16,17,UTA,Utah,Jazz,Western,931.6805458984961,5 - 10
 20,21,MEM,Memphis,Grizzlies,Western,911.931788148214,5 - 11
+24,25,DAL,Dallas,Mavericks,Western,901.6243942377497,5 - 12
 27,28,LAC,Los Angeles,Clippers,Western,892.3905251018459,4 - 11
+7,8,BKN,Brooklyn,Nets,Eastern,890.5301255551558,3 - 12
 1,2,CHA,Charlotte,Hornets,Eastern,887.7846890440081,4 - 11
-24,25,DAL,Dallas,Mavericks,Western,882.7256054912058,4 - 12
 29,30,SAC,Sacramento,Kings,Western,871.6163104224689,3 - 13
-22,23,NO,New Orleans,Pelicans,Western,863.5762394991469,2 - 13
-7,8,BKN,Brooklyn,Nets,Eastern,862.1248482511804,2 - 12
-12,13,IND,Indiana,Pacers,Eastern,855.0722635811414,2 - 13
-0,1,WAS,Washington,Wizards,Eastern,821.2653080154386,1 - 13
+12,13,IND,Indiana,Pacers,Eastern,845.5542471434635,2 - 14
+22,23,NO,New Orleans,Pelicans,Western,844.677450752603,2 - 14
+0,1,WAS,Washington,Wizards,Eastern,814.1379364664382,1 - 14
 30,31,SHQ,Team,Shaq,n/a,100.0,0 - 0
 31,32,CAN,Team,Candace,n/a,100.0,0 - 0
 32,67,KEN,Team,Kenny,n/a,100.0,0 - 0
