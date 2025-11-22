@@ -200,4 +200,52 @@ def main_function():
     else:
         print('Not a valid response. Please try again with \'NBA\' or \'NCAA\'')
 
-main_function()
+# main_function()
+
+def find_home_name(HomeID, elo_df):
+    home_df = elo_df[elo_df.ID == HomeID]
+    home_name = home_df.Name.iloc[0]
+
+    return home_name
+
+def find_elo(ID, elo_df):
+    df = elo_df[elo_df.ID == ID]
+    elo = df.ELO.iloc[0]
+
+    return elo
+
+def find_away_name(AwayID, elo_df):
+    away_df = elo_df[elo_df.ID == AwayID]
+    away_name = away_df.Name.iloc[0]
+
+    return away_name
+
+def find_home_win_prob(HomeID, AwayID, elo_df):
+    home_df = elo_df[elo_df.ID == HomeID]
+    away_df = elo_df[elo_df.ID == AwayID]
+    home_elo = home_df.ELO.iloc[0]
+    away_elo = away_df.ELO.iloc[0]
+
+    return 1 / (1 + (10 ** (-1 * (home_elo - away_elo) / 400)))
+
+def predictions():
+    input_date = datetime.date.today()
+    res = requests.get(f'https://api.sportsdata.io/v3/nba/scores/json/GamesByDateFinal/{input_date}?key=4854866e22114b1281822c787c0c8185')
+    response = json.loads(res.text)
+    # print(response)
+
+    nba_games_df = pd.DataFrame(response)
+    nba_elo_df = pd.read_csv('current_nba_elos.csv')
+
+    nba_games_df = nba_games_df[['Status', 'Day', 'DateTime', 'AwayTeam', 'HomeTeam', 'AwayTeamID', 'HomeTeamID', 'AwayTeamScore', 'HomeTeamScore', 'NeutralVenue']]
+    nba_games_df['HomeName'] = nba_games_df.apply(lambda x: find_home_name(x.HomeTeamID, nba_elo_df), axis=1)
+    nba_games_df['AwayName'] = nba_games_df.apply(lambda x: find_away_name(x.AwayTeamID, nba_elo_df), axis=1)
+    nba_games_df['HomeELO'] = nba_games_df.apply(lambda x: find_elo(x.HomeTeamID, nba_elo_df), axis=1)
+    nba_games_df['AwayELO'] = nba_games_df.apply(lambda x: find_elo(x.AwayTeamID, nba_elo_df), axis=1)
+    nba_games_df['HomeWinProb'] = nba_games_df.apply(lambda x: find_home_win_prob(x.HomeTeamID, x.AwayTeamID, nba_elo_df), axis=1)
+
+    nba_games_df.to_csv('home_win_probs.csv')
+
+    return nba_games_df
+
+print(predictions())
