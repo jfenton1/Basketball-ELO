@@ -91,7 +91,7 @@ def ncaa_elo(n):
 
     division.to_csv('current_elos.csv')
 
-# ncaa_elo(2)
+ncaa_elo(1)
 
 def nba_elo(n):
     # Will be the real logic. Don't want to waste calls.
@@ -188,7 +188,7 @@ def nba_elo(n):
     division.to_csv('current_nba_elos.csv')
     
 
-# nba_elo(1)
+nba_elo(1)
 
 def main_function():
     which_level = input('Would you like to compute the ELOs for current NBA or NCAAM teams? (NBA/NCAA) ')
@@ -200,7 +200,7 @@ def main_function():
     else:
         print('Not a valid response. Please try again with \'NBA\' or \'NCAA\'')
 
-main_function()
+# main_function()
 
 def find_home_name(HomeID, elo_df):
     home_df = elo_df[elo_df.ID == HomeID]
