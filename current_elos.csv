@@ -1,400 +1,405 @@
 ,ID,Key,Name,Mascot,Conference,ELO,Record
-109,110,IOWAST,Iowa State,Cyclones,Big 12,1129.0963631178329,7 - 0
-94,95,MICH,Michigan,Wolverines,Big Ten,1115.8073125836916,7 - 0
-25,26,DUKE,Duke,Blue Devils,Atlantic Coast,1111.8970029182071,8 - 0
-96,97,MST,Michigan State,Spartans,Big Ten,1103.4581289712987,7 - 0
-333,334,GNZG,Gonzaga,Bulldogs,West Coast,1096.8277015262602,7 - 1
-93,94,PUR,Purdue,Boilermakers,Big Ten,1096.3322466205025,7 - 0
-246,247,ARZ,Arizona,Wildcats,Big 12,1094.855225071658,6 - 0
-112,113,OKST,Oklahoma State,Cowboys,Big 12,1094.723847587745,7 - 0
-23,24,LOU,Louisville,Cardinals,Atlantic Coast,1094.6549252764657,7 - 0
-90,91,IOWA,Iowa,Hawkeyes,Big Ten,1094.5708134070906,7 - 0
-272,273,VAND,Vanderbilt,Commodores,Southeastern,1094.4362948728253,8 - 0
-279,280,MISSR,Missouri,Tigers,Southeastern,1090.1000501912504,8 - 0
-92,93,IND,Indiana,Hoosiers,Big Ten,1089.853368829341,6 - 0
-249,250,COL,Colorado,Buffaloes,Big 12,1086.1165003586002,7 - 0
-0,1,SMU,SMU,Mustangs,Atlantic Coast,1082.0759617709239,7 - 0
-276,277,TENN,Tennessee,Volunteers,Southeastern,1076.984721167986,7 - 1
-5,6,HOU,Houston,Cougars,Big 12,1073.5864613999736,7 - 1
-245,246,USC,USC,Trojans,Big Ten,1072.3951633206298,6 - 1
-335,336,BYU,BYU,Cougars,Big 12,1069.964750417132,6 - 1
-59,60,SETON,Seton Hall,Pirates,Big East,1067.5765828382273,7 - 1
-2,3,UCONN,Connecticut,Huskies,Big East,1064.7774539916086,6 - 1
-111,112,KANST,Kansas State,Wildcats,Big 12,1064.1924058733944,6 - 1
-268,269,LSU,LSU,Tigers,Southeastern,1063.727187859736,6 - 0
-232,233,BELM,Belmont,Bruins,Missouri Valley,1063.1360035142163,7 - 0
-26,27,CLMSN,Clemson,Tigers,Atlantic Coast,1062.9136821099792,7 - 1
-864,1007,UCSD,California-San Diego,Tritons,Big West,1061.421418569452,7 - 0
-274,275,ALA,Alabama,Crimson Tide,Southeastern,1060.7803803419736,5 - 2
-340,341,SANCLR,Santa Clara,Broncos,West Coast,1060.2268393782163,7 - 1
-7,8,UCF,UCF,Knights,Big 12,1059.881976984019,6 - 1
-361,394,CABAP,California Baptist,Lancers,Western Athletic,1059.3228569362705,6 - 0
-63,64,BUTL,Butler,Bulldogs,Big East,1058.9014784828375,6 - 1
-253,254,STAN,Stanford,Cardinal,Atlantic Coast,1057.8407501846218,6 - 1
-334,335,STMRY,Saint Mary's,Gaels,West Coast,1057.2845505651053,8 - 1
-55,56,GMSN,George Mason,Patriots,Atlantic 10,1056.48698939585,7 - 0
-178,179,BUF,Buffalo,Bulls,Mid-American,1053.1210190553531,7 - 0
-98,99,NEBR,Nebraska,Cornhuskers,Big Ten,1052.9286696113927,6 - 1
-97,98,OHIOST,Ohio State,Buckeyes,Big Ten,1052.8477374744039,6 - 1
-219,220,UTAHST,Utah State,Aggies,Mountain West,1052.5051027444251,6 - 0
-53,54,STLOU,Saint Louis,Billikens,Atlantic 10,1052.2319913711663,6 - 1
-21,22,VIR,Virginia,Cavaliers,Atlantic Coast,1050.8547799530838,6 - 1
-74,75,NCOL,Northern Colorado,Bears,Big Sky,1050.1672692601783,7 - 0
-250,251,CAH,California,Golden Bears,Atlantic Coast,1050.0643217580985,6 - 1
-46,47,STBON,St. Bonaventure,Bonnies,Atlantic 10,1049.6055431509924,6 - 1
-20,21,NCAR,North Carolina,Tar Heels,Atlantic Coast,1049.1581068608732,6 - 1
-107,108,BAYL,Baylor,Bears,Big 12,1048.796507949325,5 - 1
-157,158,YALE,Yale,Bulldogs,Ivy League,1047.9720935081887,6 - 1
-177,178,KENTST,Kent State,Golden Flashes,Mid-American,1046.899561140357,6 - 1
-205,206,NIOWA,Northern Iowa,Panthers,Missouri Valley,1046.4916479679866,6 - 1
-30,31,VTECH,Virginia Tech,Hokies,Atlantic Coast,1046.186702860125,6 - 2
-270,271,FL,Florida,Gators,Southeastern,1045.551386928446,5 - 2
-181,182,MIAOH,Miami (OH),RedHawks,Mid-American,1044.82430343262,6 - 0
-113,114,TCU,TCU,Horned Frogs,Big 12,1042.651033343552,5 - 2
-61,62,GEORGE,Georgetown,Hoyas,Big East,1042.4634251126129,5 - 2
-158,159,COLMB,Columbia,Lions,Ivy League,1042.1801836150687,6 - 1
-49,50,RI,Rhode Island,Rams,Atlantic 10,1042.1606762809977,6 - 2
-43,44,DAY,Dayton,Flyers,Atlantic 10,1042.1599710809353,6 - 2
-218,219,WYOM,Wyoming,Cowboys,Mountain West,1041.6868175731638,6 - 1
-4,5,TULSA,Tulsa,Golden Hurricane,American,1041.4704814554925,6 - 1
-105,106,KAN,Kansas,Jayhawks,Big 12,1040.8178516209794,6 - 2
-338,339,PACFC,Pacific,Tigers,West Coast,1040.7663812397043,6 - 1
-329,330,SALA,South Alabama,Jaguars,Sun Belt,1039.447237216029,6 - 1
-216,217,COLST,Colorado State,Rams,Mountain West,1039.0630017671372,6 - 2
-51,52,RICH,Richmond,Spiders,Atlantic 10,1038.9950308333264,6 - 1
-343,344,NMXST,New Mexico State,Aggies,Conference USA,1038.951330141406,6 - 0
-84,85,HPNT,High Point,Panthers,Big South,1038.6696968090107,6 - 1
-346,347,SEA,Seattle,Redhawks,West Coast,1038.6292141297743,5 - 1
-342,343,LOYMRY,Loyola Marymount,Lions,West Coast,1038.3029085964447,7 - 2
-247,248,UTAH,Utah,Utes,Big 12,1038.2649658532384,6 - 2
-47,48,GEOWS,George Washington,Revolutionaries,Atlantic 10,1038.1439560473775,6 - 2
-48,49,DAVID,Davidson,Wildcats,Atlantic 10,1037.9462773159776,6 - 1
-58,59,XAV,Xavier,Musketeers,Big East,1037.6489195739873,6 - 2
-123,124,NCW,UNCW,Seahawks,Coastal Athletic Association,1034.435532797894,6 - 1
-271,272,GA,Georgia,Bulldogs,Southeastern,1034.334649259048,5 - 2
-278,279,AUBRN,Auburn,Tigers,Southeastern,1033.7651062806322,6 - 2
-254,255,ARZST,Arizona State,Sun Devils,Big 12,1033.2836581080635,6 - 2
-213,214,NMX,New Mexico,Lobos,Mountain West,1032.3778028715708,5 - 2
-101,102,ILL,Illinois,Fighting Illini,Big Ten,1031.7482693410195,6 - 2
-22,23,MIA,Miami,Hurricanes,Atlantic Coast,1031.3769290579896,6 - 2
-290,291,SFAUS,Stephen F. Austin,Lumberjacks,Southland,1031.1979747037046,5 - 1
-166,167,IONA,Iona,Gaels,Metro Atlantic Athletic,1031.0635551253072,5 - 2
-57,58,VILL,Villanova,Wildcats,Big East,1030.843851094875,5 - 1
-298,299,MCNST,McNeese State,Cowboys,Southland,1030.4692400628649,6 - 1
-269,270,TXAM,Texas A&M,Aggies,Southeastern,1030.1590823503038,6 - 2
-114,115,HAWAII,Hawaii,Rainbow Warriors,Big West,1030.0777802930215,6 - 2
-135,136,MARSH,Marshall,Thundering Herd,Sun Belt,1030.0612960434048,5 - 2
-99,100,NW,Northwestern,Wildcats,Big Ten,1029.627824451336,5 - 2
-100,101,PENNST,Penn State,Nittany Lions,Big Ten,1028.896957598681,6 - 1
-167,168,SIENA,Siena,Saints,Metro Atlantic Athletic,1028.6868566509365,5 - 2
-133,134,UAB,UAB,Blazers,American,1027.0884152650085,6 - 2
-95,96,WISC,Wisconsin,Badgers,Big Ten,1026.2386037303074,5 - 2
-347,348,UTAHV,Utah Valley,Wolverines,Western Athletic,1025.8643732158132,6 - 1
-176,177,AKRON,Akron,Zips,Mid-American,1024.554233384909,5 - 2
-106,107,WVIR,West Virginia,Mountaineers,Big 12,1024.0479789107417,5 - 2
-104,105,OKL,Oklahoma,Sooners,Southeastern,1024.0159046062986,5 - 2
-44,45,VCU,VCU,Rams,Atlantic 10,1023.4946132131031,5 - 3
-144,145,FLATL,Florida Atlantic,Owls,American,1023.0129648327489,5 - 2
-65,66,DEPAUL,DePaul,Blue Demons,Big East,1022.7188616212858,5 - 2
-203,204,ILLST,Illinois State,Redbirds,Missouri Valley,1022.4641314525767,6 - 2
-9,10,TULANE,Tulane,Green Wave,American,1022.0381341579181,5 - 2
-117,118,UCDV,UC Davis,Aggies,Big West,1022.0250810238842,5 - 2
-124,125,WM,William & Mary,Tribe,Coastal Athletic Association,1020.3931542639415,6 - 2
-239,240,MURST,Murray State,Racers,Missouri Valley,1020.3163747292833,5 - 3
-110,111,TXTECH,Texas Tech,Red Raiders,Big 12,1020.2398069850483,5 - 2
-143,144,WKENT,Western Kentucky,Hilltoppers,Conference USA,1019.8109040913853,5 - 2
-33,34,WAKE,Wake Forest,Demon Deacons,Atlantic Coast,1019.5690095704002,6 - 2
-140,141,NTX,North Texas,Mean Green,American,1018.5053423233638,5 - 2
-11,12,STBR,Stony Brook,Seawolves,Coastal Athletic Association,1017.9410004028925,6 - 2
-281,282,ETNST,East Tennessee State,Buccaneers,Southern,1016.8100134448915,5 - 1
-186,187,EMICH,Eastern Michigan,Eagles,Mid-American,1016.4102684177831,5 - 3
-332,333,TROY,Troy,Trojans,Sun Belt,1016.3746666738981,6 - 3
-50,51,DUQ,Duquesne,Dukes,Atlantic 10,1016.3434413163855,5 - 2
-147,148,VALP,Valparaiso,Beacons,Missouri Valley,1016.0799576721508,4 - 2
-266,267,SC,South Carolina,Gamecocks,Southeastern,1015.3584095510632,5 - 2
-3,4,CIN,Cincinnati,Bearcats,Big 12,1014.2697702294661,5 - 2
-252,253,UCLA,UCLA,Bruins,Big Ten,1013.2496726110744,5 - 2
-108,109,TX,Texas,Longhorns,Southeastern,1012.9446579318652,6 - 2
-337,338,SF,San Francisco,Dons,West Coast,1012.8029909446822,5 - 3
-344,345,GCAN,Grand Canyon,Antelopes,Mountain West,1012.6702949902343,4 - 3
-214,215,BOISE,Boise State,Broncos,Mountain West,1012.6361628864254,5 - 3
-273,274,MISS,Ole Miss,Rebels,Southeastern,1012.4660434433148,5 - 2
-83,84,LIBRTY,Liberty,Flames,Conference USA,1012.4615906793622,5 - 2
-54,55,UMASS,Massachusetts,Minutemen,Mid-American,1012.3578992816608,4 - 3
-180,181,BOWLGR,Bowling Green,Falcons,Mid-American,1012.3311229053411,5 - 2
-160,161,PENN,Penn,Quakers,Ivy League,1012.2445581383488,4 - 2
-339,340,PORT,Portland,Pilots,West Coast,1011.1067580711081,5 - 3
-212,213,FREST,Fresno State,Bulldogs,Mountain West,1010.5934459786332,5 - 3
-275,276,ARK,Arkansas,Razorbacks,Southeastern,1010.3205236038795,5 - 2
-182,183,TOLEDO,Toledo,Rockets,Mid-American,1009.9246444156649,4 - 3
-228,229,LIUB,LIU,Sharks,Northeast,1009.6396761932887,4 - 3
-153,154,NKENT,Northern Kentucky,Norse,Horizon League,1009.6304775970159,5 - 2
-1,2,TEMPL,Temple,Owls,American,1009.4521962402268,4 - 3
-294,295,SMHO,Sam Houston,Bearkats,Conference USA,1009.4512934866391,5 - 2
-324,325,TXA,UT Arlington,Mavericks,Western Athletic,1009.1792102635873,5 - 2
-317,318,NDKST,North Dakota State,Bison,Summit,1008.945712770151,5 - 2
-248,249,WASH,Washington,Huskies,Big Ten,1008.5769505550334,5 - 2
-331,332,TXST,Texas State,Bobcats,Sun Belt,1008.1893661705869,6 - 3
-28,29,FLST,Florida State,Seminoles,Atlantic Coast,1008.1019895873854,5 - 2
-41,42,KENEST,Kennesaw State,Owls,Conference USA,1007.9747248027841,5 - 2
-125,126,JMAD,James Madison,Dukes,Sun Belt,1007.9164201913245,5 - 3
-231,232,CENCON,Central Connecticut State,Blue Devils,Northeast,1007.4028081143961,4 - 2
-283,284,MERC,Mercer,Bears,Southern,1007.3287466362182,4 - 2
-129,130,ELON,Elon,Phoenix,Coastal Athletic Association,1007.0284607098423,4 - 2
-126,127,TOWS,Towson,Tigers,Coastal Athletic Association,1006.6645848108162,5 - 3
-31,32,GTECH,Georgia Tech,Yellow Jackets,Atlantic Coast,1006.4565122781804,5 - 2
-10,11,SFL,South Florida,Bulls,American,1005.4489605796899,4 - 4
-267,268,UK,Kentucky,Wildcats,Southeastern,1005.3330594143163,5 - 2
-201,202,WICHST,Wichita State,Shockers,American,1005.2761037407843,4 - 4
-32,33,NCST,North Carolina State,Wolfpack,Atlantic Coast,1004.8562375245544,5 - 2
-118,119,USCB,UC Santa Barbara,Gauchos,Big West,1004.8213413982169,5 - 2
-24,25,ND,Notre Dame,Fighting Irish,Atlantic Coast,1003.4831821732291,5 - 3
-211,212,SDST,San Diego State,Aztecs,Mountain West,1003.255946873531,3 - 3
-215,216,NEVADA,Nevada,Wolf Pack,Mountain West,1002.1568760738089,4 - 4
-284,285,WOFF,Wofford,Terriers,Southern,1001.6803638961659,4 - 3
-169,170,FAIR,Fairfield,Stags,Metro Atlantic Athletic,1001.1858432870756,4 - 3
-75,76,PORTST,Portland State,Vikings,Big Sky,1001.0367944407967,4 - 2
-175,176,MARIST,Marist,Red Foxes,Metro Atlantic Athletic,1000.3073591127771,4 - 2
-302,303,LAMAR,Lamar,Cardinals,Southland,1000.2927391693505,3 - 2
-229,230,ROBMS,Robert Morris,Colonials,Horizon League,1000.2096189345041,5 - 3
-14,15,VERM,Vermont,Catamounts,America East,999.5161677471579,5 - 3
-877,1024,TARL,Tarleton State,Texans,Western Athletic,999.5090399977993,5 - 3
-209,210,BRADLY,Bradley,Braves,Missouri Valley,999.3461133232134,4 - 4
-257,258,NAVY,Navy,Midshipmen,Patriot League,999.3394469762609,4 - 4
-308,309,ALAAM,Alabama A&M,Bulldogs,Southwestern Athletic,998.8773797289859,3 - 2
-195,196,NCAT,North Carolina A&T,Aggies,Coastal Athletic Association,998.8577977132067,3 - 2
-243,244,SIUE,SIUE,Cougars,Ohio Valley,998.6498913862151,5 - 3
-156,157,ILLCHI,UIC,Flames,Missouri Valley,998.3412787499624,4 - 3
-80,81,COAST,Coastal Carolina,Chanticleers,Sun Belt,998.2235091708161,4 - 3
-326,327,ARKST,Arkansas State,Red Wolves,Sun Belt,997.999806400038,4 - 3
-78,79,NARZ,Northern Arizona,Lumberjacks,Big Sky,997.7724040778088,4 - 2
-173,174,QUIN,Quinnipiac,Bobcats,Metro Atlantic Athletic,997.7226951439812,4 - 3
-288,289,SAMF,Samford,Bulldogs,Southern,997.5936371879526,4 - 5
-37,38,FLGC,Florida Gulf Coast,Eagles,Atlantic Sun,997.5232062882598,5 - 3
-286,287,WCAR,Western Carolina,Catamounts,Southern,997.5084180257709,3 - 3
-119,120,UCRVS,UC Riverside,Highlanders,Big West,997.4719013220055,4 - 3
-280,281,CHAT,Chattanooga,Mocs,Southern,997.3272394282649,4 - 3
-260,261,COLG,Colgate,Raiders,Patriot League,997.2284692941231,3 - 4
-52,53,FORDM,Fordham,Rams,Atlantic 10,996.8251059073172,5 - 2
-258,259,BOSTU,Boston,Terriers,Patriot League,996.7835731275381,3 - 4
-18,19,UMBC,UMBC,Retrievers,America East,996.4817030163732,4 - 2
-241,242,AUSP,Austin Peay,Governors,Atlantic Sun,996.4642064483128,4 - 3
-320,321,SDAK,South Dakota,Coyotes,Summit,996.366850977895,4 - 3
-959,1112,STMN,St. Thomas (MN),Tommies,Summit,996.2381408503874,4 - 4
-136,137,LOUTCH,Louisiana Tech,Bulldogs,Conference USA,995.9380310580965,3 - 2
-264,265,AMERCN,American,Eagles,Patriot League,995.7972963267069,4 - 3
-292,293,HOUBAP,Houston Christian,Huskies,Southland,995.5198933177614,4 - 2
-161,162,CORNEL,Cornell,Big Red,Ivy League,995.3856666752105,4 - 2
-171,172,CANS,Canisius,Golden Griffins,Metro Atlantic Athletic,995.0467824847249,4 - 3
-66,67,STJOHN,St. John's,Red Storm,Big East,994.5280174677127,4 - 3
-34,35,BOSCOL,Boston College,Eagles,Atlantic Coast,993.6278389680904,4 - 4
-154,155,YNGST,Youngstown State,Penguins,Horizon League,993.2062059404486,4 - 4
-27,28,PITT,Pittsburgh,Panthers,Atlantic Coast,992.9970411686081,5 - 3
-240,241,TMRT,UT Martin,Skyhawks,Ohio Valley,992.7930467872065,4 - 3
-210,211,DRAKE,Drake,Bulldogs,Missouri Valley,992.3452147123954,4 - 3
-206,207,INDST,Indiana State,Sycamores,Missouri Valley,992.083922572457,4 - 4
-1225,1391,UWG,West Georgia,Wolves,Atlantic Sun,992.047548002314,4 - 3
-72,73,IDAHO,Idaho,Vandals,Big Sky,991.9406370502705,4 - 3
-282,283,FURMAN,Furman,Paladins,Southern,991.4298753278579,4 - 4
-130,131,NEAST,Northeastern,Huskies,Coastal Athletic Association,990.703991175568,3 - 4
-131,132,DREXEL,Drexel,Dragons,Coastal Athletic Association,990.3741803927611,4 - 4
-251,252,OREGST,Oregon State,Beavers,Pac-12,990.1874003242301,3 - 4
-187,188,WMICH,Western Michigan,Broncos,Mid-American,989.5895019490532,3 - 4
-295,296,ABCHR,Abilene Christian,Wildcats,Western Athletic,989.0094072700738,5 - 3
-341,342,SD,San Diego,Toreros,West Coast,988.9990463197081,3 - 3
-330,331,APPLST,Appalachian State,Mountaineers,Sun Belt,988.7832640288628,4 - 4
-142,143,SOUMIS,Southern Miss,Golden Eagles,Sun Belt,988.7549250639061,4 - 3
-168,169,STPETE,Saint Peter's,Peacocks,Metro Atlantic Athletic,988.6696938224668,2 - 3
-134,135,MTNST,Middle Tennessee,Blue Raiders,Conference USA,988.3173828232034,4 - 3
-81,82,WINTH,Winthrop,Eagles,Big South,988.0969839745949,3 - 4
-128,129,CHAR,Charleston,Cougars,Coastal Athletic Association,988.0401496773572,4 - 4
-60,61,CREIGH,Creighton,Bluejays,Big East,987.5506286311872,4 - 3
-163,164,HARVRD,Harvard,Crimson,Ivy League,987.4671570135663,4 - 4
-146,147,UTSA,UTSA,Roadrunners,American,987.0394873712538,4 - 3
-312,313,PVAM,Prairie View A&M,Panthers,Southwestern Athletic,985.8602726865341,4 - 3
-165,166,MONM,Monmouth,Hawks,Coastal Athletic Association,985.600449362977,3 - 3
-150,151,WBD,Milwaukee,Panthers,Horizon League,985.5457305558299,3 - 4
-127,128,HOFST,Hofstra,Pride,Coastal Athletic Association,985.5234188612252,3 - 3
-87,88,CHSOU,Charleston Southern,Buccaneers,Big South,984.0241465930714,5 - 4
-45,46,STJOE,Saint Joseph's,Hawks,Atlantic 10,983.9806210192183,3 - 3
-244,245,ORE,Oregon,Ducks,Big Ten,982.9174956521335,4 - 3
-71,72,IDHST,Idaho State,Bengals,Big Sky,982.8292765425012,4 - 4
-67,68,MONT,Montana,Grizzlies,Big Sky,982.7737980801764,4 - 4
-359,392,TXAMC,East Texas A&M,Lions,Southland,982.7410685941801,4 - 3
-42,43,SCUP,USC Upstate,Spartans,Big South,982.6568824677056,4 - 4
-39,40,LIPSC,Lipscomb,Bisons,Atlantic Sun,982.1943906693863,3 - 4
-297,298,CARK,Central Arkansas,Bears,Atlantic Sun,982.1241032835085,3 - 4
-91,92,MARY,Maryland,Terrapins,Big Ten,982.0934763929267,5 - 3
-115,116,UCIRV,UC Irvine,Anteaters,Big West,981.9836069297147,4 - 4
-6,7,MPHS,Memphis,Tigers,American,981.9448192015143,2 - 4
-311,312,GRMBST,Grambling State,Tigers,Southwestern Athletic,981.6688992208177,3 - 4
-256,257,BUCK,Bucknell,Bison,Patriot League,981.5268235695781,2 - 6
-170,171,MANH,Manhattan,Jaspers,Metro Atlantic Athletic,981.2572435688439,3 - 4
-149,150,WRGHT,Wright State,Raiders,Horizon League,981.1696160279779,4 - 4
-204,205,SILL,Southern Illinois,Salukis,Missouri Valley,981.1508777494297,3 - 4
-184,185,CMICH,Central Michigan,Chippewas,Mid-American,981.0864803106892,3 - 4
-234,235,TENST,Tennessee State,Tigers,Ohio Valley,980.8939113444126,3 - 3
-293,294,INCAR,Incarnate Word,Cardinals,Southland,980.4310417300485,4 - 3
-86,87,LONGWD,Longwood,Lancers,Big South,980.3332260372454,3 - 4
-261,262,LOYMD,Loyola Maryland,Greyhounds,Patriot League,980.3311238794129,3 - 5
-913,1062,MRCY,Mercyhurst,Lakers,Northeast,980.2127812459897,3 - 4
-194,195,HOWRD,Howard,Bison,Mid-Eastern,980.0732631002442,4 - 4
-221,222,SJST,San Jose State,Spartans,Mountain West,979.7679257660194,3 - 4
-56,57,LASAL,La Salle,Explorers,Atlantic 10,979.6733816643068,3 - 4
-139,140,FLINT,Florida International,Golden Panthers,Conference USA,979.628239483844,3 - 3
-174,175,NIAGRA,Niagara,Purple Eagles,Metro Atlantic Athletic,979.447073543474,2 - 4
-237,238,JAXST,Jacksonville State,Gamecocks,Conference USA,979.4047393040337,3 - 3
-102,103,RUTGER,Rutgers,Scarlet Knights,Big Ten,978.9395405786154,5 - 3
-277,278,MSPST,Mississippi State,Bulldogs,Southeastern,978.6543214443956,3 - 3
-132,133,DEL,Delaware,Fightin' Blue Hens,Conference USA,978.304035997741,2 - 4
-207,208,MSRST,Missouri State,Bears,Conference USA,978.2938651641379,3 - 3
-362,396,NAL,North Alabama,Lions,Atlantic Sun,978.0360861844797,3 - 4
-262,263,ARMY,Army,Black Knights,Patriot League,977.9521645369493,2 - 6
-878,1025,BELLA,Bellarmine,Knights,Atlantic Sun,977.7902760266104,3 - 4
-259,260,LEHI,Lehigh,Mountain Hawks,Patriot League,977.6585600791516,2 - 6
-289,290,VAMIL,VMI,Keydets,Southern,977.4955593750402,3 - 6
-185,186,NILL,Northern Illinois,Huskies,Mid-American,977.4032124054854,3 - 4
-345,346,CSU,Bakersfield,Roadrunners,Big West,977.2740996695418,3 - 4
-313,314,SDKST,South Dakota State,Jackrabbits,Summit,977.1477567145325,4 - 4
-89,90,CAMP,Campbell,Fighting Camels,Coastal Athletic Association,977.0747402172271,3 - 4
-620,741,JAC,Lindenwood,Lions,Ohio Valley,976.9629339692333,3 - 4
-162,163,BROWN,Brown,Bears,Ivy League,976.8471645879804,3 - 5
-120,121,CSUNR,CSUN,Matadors,Big West,976.7312218150493,3 - 4
-263,264,HOLY,Holy Cross,Crusaders,Patriot League,976.7101099478746,2 - 6
-220,221,AIRF,Air Force,Falcons,Mountain West,976.4979184088094,3 - 5
-287,288,CITA,The Citadel,Bulldogs,Southern,975.9563011531542,2 - 5
-148,149,OAK,Oakland,Golden Grizzlies,Horizon League,975.5417093803559,3 - 5
-1286,1453,NHVN,New Haven,Chargers,Northeast,975.3420934882871,4 - 4
-40,41,STETSN,Stetson,Hatters,Atlantic Sun,975.1401982860057,3 - 4
-103,104,MINNST,Minnesota,Golden Gophers,Big Ten,974.8797379351519,4 - 4
-296,297,NO,New Orleans,Privateers,Southland,974.4660576268991,3 - 5
-141,142,CHARLT,Charlotte,49ers,American,973.8259079445332,3 - 5
-79,80,NCASHE,UNC Asheville,Bulldogs,Big South,973.6027209801456,2 - 4
-121,122,CALPOL,Cal Poly,Mustangs,Big West,972.9944301153346,3 - 5
-188,189,HAMP,Hampton,Pirates,Coastal Athletic Association,972.9465575222521,3 - 5
-29,30,SYRA,Syracuse,Orange,Atlantic Coast,972.8352695287842,4 - 3
-36,37,JAX,Jacksonville,Dolphins,Atlantic Sun,972.5443456191764,3 - 4
-285,286,NCG,UNCG,Spartans,Southern,972.1831336537041,1 - 7
-393,427,LEMYN,Le Moyne,Dolphins,Northeast,972.021996180895,3 - 4
-629,750,DXST,Utah Tech,Trailblazers,Western Athletic,971.955654141533,4 - 5
-137,138,OLD,Old Dominion,Monarchs,Sun Belt,971.933069173702,3 - 5
-235,236,MHST,Morehead State,Eagles,Ohio Valley,971.9235868067915,3 - 4
-68,69,WEBST,Weber State,Wildcats,Big Sky,971.6798333000785,2 - 4
-73,74,MONST,Montana State,Bobcats,Big Sky,971.609978435133,3 - 4
-255,256,WASHST,Washington State,Cougars,Pac-12,970.7746512583717,3 - 5
-310,311,ALAST,Alabama State,Hornets,Southwestern Athletic,970.7333466885149,3 - 5
-265,266,LAFAY,Lafayette,Leopards,Patriot League,970.7080375144685,1 - 6
-190,191,NORFST,Norfolk State,Spartans,Mid-Eastern,970.4739336571098,4 - 4
-217,218,UNLV,UNLV,Runnin' Rebels,Mountain West,970.3978862727073,3 - 5
-328,329,GAS,Georgia Southern,Eagles,Sun Belt,970.2389818736292,3 - 5
-348,350,UTRGV,Texas-Rio Grande Valley,Vaqueros,Southland,970.1327520721567,2 - 4
-64,65,MARQ,Marquette,Golden Eagles,Big East,970.0248436827832,4 - 4
-62,63,PROV,Providence,Friars,Big East,969.5282657318259,4 - 4
-826,962,QUEEN,Queens (NC),Royals,Atlantic Sun,968.8575606282374,3 - 5
-151,152,GB,Green Bay,Phoenix,Horizon League,968.6490084049573,3 - 5
-336,337,PEPP,Pepperdine,Waves,West Coast,968.6240527257924,3 - 4
-76,77,SACST,Sacramento State,Hornets,Big Sky,968.0530436962413,4 - 4
-88,89,PRESB,Presbyterian,Blue Hose,Big South,967.5952329475149,4 - 5
-183,184,BALLST,Ball State,Cardinals,Mid-American,967.5575381292704,2 - 4
-318,319,DEN,Denver,Pioneers,Summit,966.8442831036206,2 - 5
-164,165,DART,Dartmouth,Big Green,Ivy League,966.8006353051493,1 - 3
-38,39,NJIT,NJIT,Highlanders,America East,966.6987838006356,3 - 6
-233,234,TENTCH,Tennessee Tech,Golden Eagles,Ohio Valley,966.2841242187108,3 - 4
-1053,1212,USI,Southern Indiana,Screaming Eagles,Ohio Valley,964.039228462992,2 - 5
-226,227,SACRED,Sacred Heart,Pioneers,Metro Atlantic Athletic,963.6434058113019,2 - 4
-322,323,ARLR,Little Rock,Trojans,Ohio Valley,963.4122837151642,2 - 4
-242,243,SEMST,Southeast Missouri State,Redhawks,Ohio Valley,962.6527640458662,2 - 5
-122,123,CSUFL,Cal State Fullerton,Titans,Big West,961.5661865245526,2 - 5
-690,817,MERRI,Merrimack College,Warriors,Metro Atlantic Athletic,961.0450105285713,2 - 5
-222,223,WAG,Wagner,Seahawks,Northeast,960.1252462031216,1 - 5
-8,9,ECAR,East Carolina,Pirates,American,960.0026271843387,2 - 5
-191,192,BCOOK,Bethune-Cookman,Wildcats,Southwestern Athletic,958.9989008198665,2 - 5
-145,146,RICE,Rice,Owls,American,958.966782402187,3 - 6
-230,231,BRYANT,Bryant,Bulldogs,America East,958.7825490528521,2 - 5
-314,315,IPFW,Purdue Fort Wayne,Mastodons,Horizon League,958.7247019426694,4 - 5
-138,139,UTEP,UTEP,Miners,Conference USA,958.2173232856293,3 - 4
-70,71,NDAK,North Dakota,Fighting Hawks,Summit,957.4311800310071,3 - 6
-304,305,SOUTH,Southern,Jaguars,Southwestern Athletic,956.8225658851895,2 - 4
-238,239,EILL,Eastern Illinois,Panthers,Ohio Valley,956.6524465550799,2 - 5
-299,300,SELOU,Southeastern Louisiana,Lions,Southland,955.7863471788186,2 - 5
-192,193,MDES,Maryland Eastern Shore,Hawks,Mid-Eastern,955.5400896648601,3 - 6
-12,13,ALBNY,Albany,Great Danes,America East,954.8767709494381,2 - 5
-202,203,EVANS,Evansville,Aces,Missouri Valley,954.8685402864751,3 - 5
-303,304,TXS,Texas Southern,Tigers,Southwestern Athletic,954.7694890798507,1 - 5
-197,198,FLAM,Florida A&M,Rattlers,Southwestern Athletic,954.5530259826603,0 - 4
-319,320,ORAL,Oral Roberts,Golden Eagles,Summit,954.4087535307517,3 - 6
-35,36,NFL,North Florida,Ospreys,Atlantic Sun,954.2377735044196,1 - 5
-159,160,PRNCE,Princeton,Tigers,Ivy League,954.0227419825777,3 - 6
-236,237,EKENT,Eastern Kentucky,Colonels,Atlantic Sun,953.969369547276,1 - 5
-291,292,TAMU,Texas A&M-Corpus Christi,Islanders,Southland,952.7906752987207,2 - 5
-316,317,IUPUI,IU Indy,Jaguars,Horizon League,952.3796014386434,2 - 6
-179,180,OHIO,Ohio,Bobcats,Mid-American,951.1597397848926,1 - 6
-225,226,MSTM,Mount St. Mary's,Mountaineers,Metro Atlantic Athletic,949.9101094924272,1 - 6
-15,16,MASLOW,Massachusetts-Lowell,River Hawks,America East,949.7700333019365,2 - 6
-1054,1213,STNH,Stonehill,Skyhawks,Northeast,949.3232208339546,2 - 6
-315,316,NEOM,Omaha,Mavericks,Summit,949.2557309470986,2 - 6
-85,86,RADF,Radford,Highlanders,Big South,947.965548645122,2 - 6
-300,301,NWST,Northwestern State,Demons,Southland,947.4848203768039,1 - 5
-13,14,NHAMP,New Hampshire,Wildcats,America East,947.0650481300212,2 - 5
-172,173,RIDER,Rider,Broncs,Metro Atlantic Athletic,946.8864678498219,1 - 5
-357,362,UMKC,Kansas City,Roos,Summit,946.8702513318913,1 - 5
-155,156,CLVST,Cleveland State,Vikings,Horizon League,945.3295778112837,3 - 6
-223,224,FAIRDK,Fairleigh Dickinson,Knights,Northeast,944.6033349006517,1 - 6
-69,70,EWASH,Eastern Washington,Eagles,Big Sky,944.2919927872697,1 - 6
-305,306,JACKST,Jackson State,Tigers,Southwestern Athletic,943.3233533427697,1 - 6
-325,326,LAMON,Louisiana-Monroe,Warhawks,Sun Belt,941.1634839744689,1 - 6
-323,324,LOULAF,Louisiana-Lafayette,Ragin' Cajuns,Sun Belt,940.894771606933,1 - 7
-116,117,LBST,Long Beach State,Beach,Big West,940.8128058772559,1 - 6
-321,322,WILL,Western Illinois,Leathernecks,Ohio Valley,940.6388608775832,1 - 6
-152,153,DET,Detroit,Titans,Horizon League,940.5633680070184,1 - 6
-198,199,MORGST,Morgan State,Bears,Mid-Eastern,940.3575520870413,1 - 6
-301,302,NICHLS,Nicholls,Colonels,Southland,940.1546051116027,0 - 6
-196,197,NCC,North Carolina Central,Eagles,Mid-Eastern,938.3065374288951,2 - 6
-189,190,SCARST,South Carolina State,Bulldogs,Mid-Eastern,938.1581355385624,0 - 7
-19,20,BING,Binghamton,Bearcats,America East,937.860628196009,2 - 6
-208,209,LOYCH,Loyola Chicago,Ramblers,Atlantic 10,937.843088241345,1 - 7
-224,225,STFPA,St. Francis (PA),Red Flash,Northeast,935.9120395922567,0 - 6
-16,17,MAINE,Maine,Black Bears,America East,935.8832624545994,0 - 7
-200,201,DELST,Delaware State,Hornets,Mid-Eastern,935.7244668309447,2 - 6
-306,307,ALCST,Alcorn State,Braves,Southwestern Athletic,935.156846087266,1 - 7
-199,200,COPPST,Coppin State,Eagles,Mid-Eastern,933.6129339006465,2 - 7
-77,78,SUTAH,Southern Utah,Thunderbirds,Western Athletic,932.746140822088,2 - 6
-327,328,GAST,Georgia State,Panthers,Sun Belt,931.7463155131729,1 - 7
-307,308,MSVLST,Mississippi Valley State,Delta Devils,Southwestern Athletic,927.3352783628629,1 - 7
-82,83,GARDWB,Gardner-Webb,Runnin' Bulldogs,Big South,921.7989818602921,0 - 8
-349,351,CHIST,Chicago State,Cougars,Northeast,920.9503465660131,0 - 8
-309,310,ARPB,Arkansas-Pine Bluff,Golden Lions,Southwestern Athletic,920.2330444611163,0 - 8
-996,1149,ELIZ,Elizabethtown,Blue Jays,n/a,100.0,0 - 0
-995,1148,GWYM,Gwynedd Mercy,Griffins,n/a,100.0,0 - 0
-1003,1156,GEOKY,Georgetown (KY),Tigers,n/a,100.0,0 - 0
-994,1147,VULYN,VU of Lynchburg,Dragons,n/a,100.0,0 - 5
-998,1151,UDC,District of Columbia,Firebirds,n/a,100.0,0 - 1
+109,110,IOWAST,Iowa State,Cyclones,Big 12,1128.8370477866608,7 - 0
+94,95,MICH,Michigan,Wolverines,Big Ten,1115.8228137828937,7 - 0
+25,26,DUKE,Duke,Blue Devils,Atlantic Coast,1111.4111605704318,8 - 0
+246,247,ARZ,Arizona,Wildcats,Big 12,1103.967248719332,7 - 0
+96,97,MST,Michigan State,Spartans,Big Ten,1103.5058215994745,7 - 0
+92,93,IND,Indiana,Hoosiers,Big Ten,1098.7966991263575,7 - 0
+93,94,PUR,Purdue,Boilermakers,Big Ten,1097.0875092769647,7 - 0
+333,334,GNZG,Gonzaga,Bulldogs,West Coast,1097.0721367932429,7 - 1
+272,273,VAND,Vanderbilt,Commodores,Southeastern,1094.8380563007709,8 - 0
+90,91,IOWA,Iowa,Hawkeyes,Big Ten,1094.6661428805537,7 - 0
+112,113,OKST,Oklahoma State,Cowboys,Big 12,1094.4968717873103,7 - 0
+23,24,LOU,Louisville,Cardinals,Atlantic Coast,1094.424673500328,7 - 0
+279,280,MISSR,Missouri,Tigers,Southeastern,1089.285749178331,8 - 0
+268,269,LSU,LSU,Tigers,Southeastern,1088.7401840376497,7 - 0
+249,250,COL,Colorado,Buffaloes,Big 12,1085.8980846657078,7 - 0
+0,1,SMU,SMU,Mustangs,Atlantic Coast,1082.0887980545274,7 - 0
+276,277,TENN,Tennessee,Volunteers,Southeastern,1077.319698812689,7 - 1
+232,233,BELM,Belmont,Bruins,Missouri Valley,1073.90676548632,8 - 0
+5,6,HOU,Houston,Cougars,Big 12,1073.6394419564547,7 - 1
+245,246,USC,USC,Trojans,Big Ten,1072.2847119762837,6 - 1
+335,336,BYU,BYU,Cougars,Big 12,1069.9206604289286,6 - 1
+361,394,CABAP,California Baptist,Lancers,Western Athletic,1067.655640588909,7 - 0
+59,60,SETON,Seton Hall,Pirates,Big East,1067.3998509355733,7 - 1
+55,56,GMSN,George Mason,Patriots,Atlantic 10,1065.453406965154,8 - 0
+111,112,KANST,Kansas State,Wildcats,Big 12,1065.1902349408094,6 - 1
+2,3,UCONN,Connecticut,Huskies,Big East,1065.1009768796516,6 - 1
+7,8,UCF,UCF,Knights,Big 12,1064.4221486078793,7 - 1
+26,27,CLMSN,Clemson,Tigers,Atlantic Coast,1063.0016050230417,7 - 1
+178,179,BUF,Buffalo,Bulls,Mid-American,1062.0103072519348,8 - 0
+219,220,UTAHST,Utah State,Aggies,Mountain West,1061.5279354329032,7 - 0
+98,99,NEBR,Nebraska,Cornhuskers,Big Ten,1061.1839755962637,7 - 1
+864,1007,UCSD,California-San Diego,Tritons,Big West,1060.8539533687306,7 - 0
+274,275,ALA,Alabama,Crimson Tide,Southeastern,1060.8298134887564,5 - 2
+340,341,SANCLR,Santa Clara,Broncos,West Coast,1060.2593257863439,7 - 1
+63,64,BUTL,Butler,Bulldogs,Big East,1059.1575228595755,6 - 1
+46,47,STBON,St. Bonaventure,Bonnies,Atlantic 10,1058.5191370373425,7 - 1
+334,335,STMRY,Saint Mary's,Gaels,West Coast,1057.4739764889166,8 - 1
+253,254,STAN,Stanford,Cardinal,Atlantic Coast,1057.34827961388,6 - 1
+157,158,YALE,Yale,Bulldogs,Ivy League,1056.6554716147236,7 - 1
+97,98,OHIOST,Ohio State,Buckeyes,Big Ten,1052.7930943657652,6 - 1
+53,54,STLOU,Saint Louis,Billikens,Atlantic 10,1051.9562192957292,6 - 1
+21,22,VIR,Virginia,Cavaliers,Atlantic Coast,1050.8280913571882,6 - 1
+250,251,CAH,California,Golden Bears,Atlantic Coast,1050.491501303669,6 - 1
+338,339,PACFC,Pacific,Tigers,West Coast,1049.9391227878064,7 - 1
+74,75,NCOL,Northern Colorado,Bears,Big Sky,1049.9308064346505,8 - 0
+329,330,SALA,South Alabama,Jaguars,Sun Belt,1049.770655716158,7 - 1
+20,21,NCAR,North Carolina,Tar Heels,Atlantic Coast,1049.1925022245268,6 - 1
+107,108,BAYL,Baylor,Bears,Big 12,1048.8188792322658,5 - 1
+177,178,KENTST,Kent State,Golden Flashes,Mid-American,1047.2067307962939,7 - 1
+205,206,NIOWA,Northern Iowa,Panthers,Missouri Valley,1046.763746668087,6 - 1
+30,31,VTECH,Virginia Tech,Hokies,Atlantic Coast,1046.1952659716167,6 - 2
+270,271,FL,Florida,Gators,Southeastern,1046.0979725183226,5 - 2
+181,182,MIAOH,Miami (OH),RedHawks,Mid-American,1043.9777934252024,6 - 0
+123,124,NCW,UNCW,Seahawks,Coastal Athletic Association,1043.7410995735527,7 - 1
+84,85,HPNT,High Point,Panthers,Big South,1042.6702102694485,7 - 1
+158,159,COLMB,Columbia,Lions,Ivy League,1042.5921269578682,7 - 1
+61,62,GEORGE,Georgetown,Hoyas,Big East,1042.492422510761,5 - 2
+113,114,TCU,TCU,Horned Frogs,Big 12,1042.4244378109738,5 - 2
+271,272,GA,Georgia,Bulldogs,Southeastern,1042.238823481193,6 - 2
+43,44,DAY,Dayton,Flyers,Atlantic 10,1041.8674485529036,6 - 2
+167,168,SIENA,Siena,Saints,Metro Atlantic Athletic,1041.3321915132726,7 - 2
+4,5,TULSA,Tulsa,Golden Hurricane,American,1041.2185032462687,6 - 1
+49,50,RI,Rhode Island,Rams,Atlantic 10,1041.0882887892853,6 - 2
+105,106,KAN,Kansas,Jayhawks,Big 12,1040.5963042878657,6 - 2
+343,344,NMXST,New Mexico State,Aggies,Conference USA,1039.2562792687936,6 - 0
+216,217,COLST,Colorado State,Rams,Mountain West,1039.0855648005893,6 - 2
+51,52,RICH,Richmond,Spiders,Atlantic 10,1038.929855634427,6 - 1
+58,59,XAV,Xavier,Musketeers,Big East,1038.4860650252285,6 - 2
+342,343,LOYMRY,Loyola Marymount,Lions,West Coast,1038.3228341067834,7 - 2
+247,248,UTAH,Utah,Utes,Big 12,1038.2875948843248,6 - 2
+48,49,DAVID,Davidson,Wildcats,Atlantic 10,1038.2165340910776,6 - 1
+100,101,PENNST,Penn State,Nittany Lions,Big Ten,1037.98775142673,7 - 1
+47,48,GEOWS,George Washington,Revolutionaries,Atlantic 10,1037.7169116208188,6 - 2
+254,255,ARZST,Arizona State,Sun Devils,Big 12,1033.7826224608955,6 - 2
+176,177,AKRON,Akron,Zips,Mid-American,1033.548361503196,6 - 2
+278,279,AUBRN,Auburn,Tigers,Southeastern,1033.528803115586,6 - 2
+106,107,WVIR,West Virginia,Mountaineers,Big 12,1033.4876987042878,6 - 2
+218,219,WYOM,Wyoming,Cowboys,Mountain West,1033.1038145003643,6 - 2
+213,214,NMX,New Mexico,Lobos,Mountain West,1032.6520841040096,5 - 2
+101,102,ILL,Illinois,Fighting Illini,Big Ten,1032.2893815198906,6 - 2
+166,167,IONA,Iona,Gaels,Metro Atlantic Athletic,1031.3056679207982,5 - 2
+298,299,MCNST,McNeese State,Cowboys,Southland,1030.4699833458699,6 - 1
+114,115,HAWAII,Hawaii,Rainbow Warriors,Big West,1030.2175389197112,6 - 2
+22,23,MIA,Miami,Hurricanes,Atlantic Coast,1030.164013569365,6 - 2
+269,270,TXAM,Texas A&M,Aggies,Southeastern,1030.0263154090578,6 - 2
+135,136,MARSH,Marshall,Thundering Herd,Sun Belt,1029.868627184459,5 - 2
+57,58,VILL,Villanova,Wildcats,Big East,1029.8332647574118,5 - 1
+346,347,SEA,Seattle,Redhawks,West Coast,1029.8126838677674,5 - 2
+124,125,WM,William & Mary,Tribe,Coastal Athletic Association,1029.0981787076253,7 - 2
+99,100,NW,Northwestern,Wildcats,Big Ten,1027.858455169714,5 - 2
+133,134,UAB,UAB,Blazers,American,1027.7883542823943,6 - 2
+110,111,TXTECH,Texas Tech,Red Raiders,Big 12,1027.5715163527282,6 - 2
+140,141,NTX,North Texas,Mean Green,American,1026.4240278052744,6 - 2
+95,96,WISC,Wisconsin,Badgers,Big Ten,1026.3496498863603,5 - 2
+347,348,UTAHV,Utah Valley,Wolverines,Western Athletic,1025.8548462787937,6 - 1
+147,148,VALP,Valparaiso,Beacons,Missouri Valley,1025.2809280089843,5 - 2
+104,105,OKL,Oklahoma,Sooners,Southeastern,1024.283642449468,5 - 2
+44,45,VCU,VCU,Rams,Atlantic 10,1023.3084820986148,5 - 3
+203,204,ILLST,Illinois State,Redbirds,Missouri Valley,1023.1110887170427,6 - 2
+281,282,ETNST,East Tennessee State,Buccaneers,Southern,1022.376140514795,6 - 1
+9,10,TULANE,Tulane,Green Wave,American,1022.1352497081085,5 - 2
+290,291,SFAUS,Stephen F. Austin,Lumberjacks,Southland,1021.795689055303,5 - 2
+117,118,UCDV,UC Davis,Aggies,Big West,1021.7897962236473,5 - 2
+239,240,MURST,Murray State,Racers,Missouri Valley,1020.0861083877559,5 - 3
+33,34,WAKE,Wake Forest,Demon Deacons,Atlantic Coast,1019.7929973333722,6 - 2
+143,144,WKENT,Western Kentucky,Hilltoppers,Conference USA,1019.5103165123303,5 - 2
+324,325,TXA,UT Arlington,Mavericks,Western Athletic,1018.3086167767127,6 - 2
+11,12,STBR,Stony Brook,Seawolves,Coastal Athletic Association,1017.6467643480653,6 - 2
+186,187,EMICH,Eastern Michigan,Eagles,Mid-American,1016.9151555993736,5 - 3
+332,333,TROY,Troy,Trojans,Sun Belt,1016.3940553169682,6 - 3
+50,51,DUQ,Duquesne,Dukes,Atlantic 10,1015.8284002288101,5 - 2
+266,267,SC,South Carolina,Gamecocks,Southeastern,1015.4753617785487,5 - 2
+3,4,CIN,Cincinnati,Bearcats,Big 12,1014.4388341603424,5 - 2
+144,145,FLATL,Florida Atlantic,Owls,American,1014.4286079924323,5 - 3
+153,154,NKENT,Northern Kentucky,Norse,Horizon League,1014.0870752382376,6 - 2
+118,119,USCB,UC Santa Barbara,Gauchos,Big West,1013.3744533761741,6 - 2
+252,253,UCLA,UCLA,Bruins,Big Ten,1013.3552762764921,5 - 2
+273,274,MISS,Ole Miss,Rebels,Southeastern,1012.8276707545673,5 - 2
+108,109,TX,Texas,Longhorns,Southeastern,1012.6621768189842,6 - 2
+283,284,MERC,Mercer,Bears,Southern,1012.6181412766667,5 - 2
+337,338,SF,San Francisco,Dons,West Coast,1012.5608570821794,5 - 3
+344,345,GCAN,Grand Canyon,Antelopes,Mountain West,1012.4194389757052,4 - 3
+214,215,BOISE,Boise State,Broncos,Mountain West,1012.3698810347397,5 - 3
+180,181,BOWLGR,Bowling Green,Falcons,Mid-American,1012.3334301437311,5 - 2
+83,84,LIBRTY,Liberty,Flames,Conference USA,1011.6369410181427,5 - 2
+54,55,UMASS,Massachusetts,Minutemen,Mid-American,1011.5087562999908,4 - 3
+339,340,PORT,Portland,Pilots,West Coast,1011.3490846152472,5 - 3
+160,161,PENN,Penn,Quakers,Ivy League,1010.9782802715096,5 - 3
+182,183,TOLEDO,Toledo,Rockets,Mid-American,1010.7467812790914,4 - 3
+275,276,ARK,Arkansas,Razorbacks,Southeastern,1010.7139483474145,5 - 2
+229,230,ROBMS,Robert Morris,Colonials,Horizon League,1010.1917185765853,6 - 3
+169,170,FAIR,Fairfield,Stags,Metro Atlantic Athletic,1009.7491299937283,5 - 3
+228,229,LIUB,LIU,Sharks,Northeast,1009.5136143635762,4 - 3
+294,295,SMHO,Sam Houston,Bearkats,Conference USA,1009.4041297945446,5 - 2
+1,2,TEMPL,Temple,Owls,American,1009.0016799158609,4 - 3
+317,318,NDKST,North Dakota State,Bison,Summit,1008.9473342411122,5 - 2
+248,249,WASH,Washington,Huskies,Big Ten,1008.8059046935546,5 - 2
+28,29,FLST,Florida State,Seminoles,Atlantic Coast,1008.3566059560618,5 - 2
+41,42,KENEST,Kennesaw State,Owls,Conference USA,1007.9865906570749,5 - 2
+231,232,CENCON,Central Connecticut State,Blue Devils,Northeast,1007.4244091882789,5 - 2
+80,81,COAST,Coastal Carolina,Chanticleers,Sun Belt,1006.9956075404774,5 - 3
+284,285,WOFF,Wofford,Terriers,Southern,1006.7742900858722,5 - 3
+173,174,QUIN,Quinnipiac,Bobcats,Metro Atlantic Athletic,1006.6603409505078,5 - 3
+126,127,TOWS,Towson,Tigers,Coastal Athletic Association,1006.1524833361898,5 - 3
+18,19,UMBC,UMBC,Retrievers,America East,1005.8836211109502,5 - 2
+136,137,LOUTCH,Louisiana Tech,Bulldogs,Conference USA,1005.7985205242445,4 - 2
+320,321,SDAK,South Dakota,Coyotes,Summit,1005.7462842412426,5 - 3
+267,268,UK,Kentucky,Wildcats,Southeastern,1005.4104922296971,5 - 2
+10,11,SFL,South Florida,Bulls,American,1005.3357747867399,4 - 4
+201,202,WICHST,Wichita State,Shockers,American,1005.029995829351,4 - 4
+127,128,HOFST,Hofstra,Pride,Coastal Athletic Association,1004.9586806746752,5 - 3
+32,33,NCST,North Carolina State,Wolfpack,Atlantic Coast,1004.8590085272259,5 - 2
+210,211,DRAKE,Drake,Bulldogs,Missouri Valley,1004.0263835298039,5 - 3
+24,25,ND,Notre Dame,Fighting Irish,Atlantic Coast,1003.6992243093982,5 - 3
+211,212,SDST,San Diego State,Aztecs,Mountain West,1003.491846206284,3 - 3
+215,216,NEVADA,Nevada,Wolf Pack,Mountain West,1003.2131978486176,4 - 4
+331,332,TXST,Texas State,Bobcats,Sun Belt,1003.0670365963243,6 - 4
+260,261,COLG,Colgate,Raiders,Patriot League,1002.9754018156084,5 - 4
+52,53,FORDM,Fordham,Rams,Atlantic 10,1001.9728399185127,6 - 3
+75,76,PORTST,Portland State,Vikings,Big Sky,1001.5556032820543,4 - 2
+129,130,ELON,Elon,Phoenix,Coastal Athletic Association,1001.5433106588561,4 - 3
+212,213,FREST,Fresno State,Bulldogs,Mountain West,1001.5087836588236,5 - 4
+175,176,MARIST,Marist,Red Foxes,Metro Atlantic Athletic,1001.0351064532543,4 - 2
+302,303,LAMAR,Lamar,Cardinals,Southland,1000.3286264026106,4 - 2
+877,1024,TARL,Tarleton State,Texans,Western Athletic,1000.1879157825672,5 - 3
+161,162,CORNEL,Cornell,Big Red,Ivy League,1000.0804083557329,5 - 2
+125,126,JMAD,James Madison,Dukes,Sun Belt,999.4444073604811,5 - 4
+209,210,BRADLY,Bradley,Braves,Missouri Valley,999.3437204420883,4 - 4
+65,66,DEPAUL,DePaul,Blue Demons,Big East,999.2979042956786,5 - 3
+156,157,ILLCHI,UIC,Flames,Missouri Valley,998.741472385381,4 - 3
+195,196,NCAT,North Carolina A&T,Aggies,Coastal Athletic Association,998.5797896669076,3 - 2
+243,244,SIUE,SIUE,Cougars,Ohio Valley,998.4076317408413,5 - 3
+78,79,NARZ,Northern Arizona,Lumberjacks,Big Sky,998.0960077797408,4 - 2
+81,82,WINTH,Winthrop,Eagles,Big South,997.9747147352649,4 - 4
+326,327,ARKST,Arkansas State,Red Wolves,Sun Belt,997.7382964858765,4 - 3
+37,38,FLGC,Florida Gulf Coast,Eagles,Atlantic Sun,997.7130882851602,5 - 3
+288,289,SAMF,Samford,Bulldogs,Southern,997.3965758850131,4 - 5
+264,265,AMERCN,American,Eagles,Patriot League,996.948800212576,5 - 4
+959,1112,STMN,St. Thomas (MN),Tommies,Summit,996.3711400274708,5 - 4
+31,32,GTECH,Georgia Tech,Yellow Jackets,Atlantic Coast,996.0133675753447,5 - 3
+163,164,HARVRD,Harvard,Crimson,Ivy League,995.9525513286526,5 - 4
+241,242,AUSP,Austin Peay,Governors,Atlantic Sun,995.9252238767683,4 - 3
+257,258,NAVY,Navy,Midshipmen,Patriot League,995.1440877124721,4 - 5
+66,67,STJOHN,St. John's,Red Storm,Big East,994.9876374318478,4 - 3
+27,28,PITT,Pittsburgh,Panthers,Atlantic Coast,994.106151493124,5 - 3
+154,155,YNGST,Youngstown State,Penguins,Horizon League,993.7639545439016,4 - 4
+34,35,BOSCOL,Boston College,Eagles,Atlantic Coast,993.5460424095359,4 - 4
+286,287,WCAR,Western Carolina,Catamounts,Southern,992.8672550696938,3 - 4
+45,46,STJOE,Saint Joseph's,Hawks,Atlantic 10,992.7982103797945,4 - 3
+280,281,CHAT,Chattanooga,Mocs,Southern,992.5486303313185,4 - 4
+240,241,TMRT,UT Martin,Skyhawks,Ohio Valley,992.545810829647,4 - 3
+258,259,BOSTU,Boston,Terriers,Patriot League,992.5038419872886,3 - 5
+206,207,INDST,Indiana State,Sycamores,Missouri Valley,992.4549651280761,4 - 4
+39,40,LIPSC,Lipscomb,Bisons,Atlantic Sun,992.3331381500885,4 - 4
+115,116,UCIRV,UC Irvine,Anteaters,Big West,991.8452176872871,5 - 4
+72,73,IDAHO,Idaho,Vandals,Big Sky,991.6874167038824,4 - 3
+282,283,FURMAN,Furman,Paladins,Southern,991.4916056363481,4 - 4
+1225,1391,UWG,West Georgia,Wolves,Atlantic Sun,991.324352843038,4 - 3
+14,15,VERM,Vermont,Catamounts,America East,990.8865700372409,5 - 4
+130,131,NEAST,Northeastern,Huskies,Coastal Athletic Association,990.4885665307063,3 - 4
+131,132,DREXEL,Drexel,Dragons,Coastal Athletic Association,990.4084354704636,4 - 4
+308,309,ALAAM,Alabama A&M,Bulldogs,Southwestern Athletic,989.8789757279887,3 - 3
+204,205,SILL,Southern Illinois,Salukis,Missouri Valley,989.60777891007,4 - 4
+142,143,SOUMIS,Southern Miss,Golden Eagles,Sun Belt,989.0024979883189,4 - 3
+119,120,UCRVS,UC Riverside,Highlanders,Big West,988.8091094231881,4 - 4
+295,296,ABCHR,Abilene Christian,Wildcats,Western Athletic,988.5535332295702,5 - 3
+134,135,MTNST,Middle Tennessee,Blue Raiders,Conference USA,988.3166685002046,4 - 3
+60,61,CREIGH,Creighton,Bluejays,Big East,987.8338325378343,4 - 3
+345,346,CSU,Bakersfield,Roadrunners,Big West,986.1215431781987,4 - 4
+234,235,TENST,Tennessee State,Tigers,Ohio Valley,985.9963595244218,5 - 3
+292,293,HOUBAP,Houston Christian,Huskies,Southland,985.6878866778002,4 - 3
+171,172,CANS,Canisius,Golden Griffins,Metro Atlantic Athletic,985.4975273344388,4 - 4
+261,262,LOYMD,Loyola Maryland,Greyhounds,Patriot League,985.4411930207397,4 - 5
+87,88,CHSOU,Charleston Southern,Buccaneers,Big South,983.926512149008,5 - 4
+86,87,LONGWD,Longwood,Lancers,Big South,983.6542768209227,4 - 5
+79,80,NCASHE,UNC Asheville,Bulldogs,Big South,983.5622428944041,3 - 4
+359,392,TXAMC,East Texas A&M,Lions,Southland,982.8203720039761,4 - 3
+262,263,ARMY,Army,Black Knights,Patriot League,982.8033586804268,3 - 6
+67,68,MONT,Montana,Grizzlies,Big Sky,982.7577576704336,4 - 4
+259,260,LEHI,Lehigh,Mountain Hawks,Patriot League,982.7380809870145,3 - 6
+244,245,ORE,Oregon,Ducks,Big Ten,982.6693725107976,4 - 3
+71,72,IDHST,Idaho State,Bengals,Big Sky,982.3032083908507,4 - 4
+6,7,MPHS,Memphis,Tigers,American,982.2268301378591,2 - 4
+68,69,WEBST,Weber State,Wildcats,Big Sky,981.9390425414308,3 - 4
+91,92,MARY,Maryland,Terrapins,Big Ten,981.9292226227018,5 - 3
+251,252,OREGST,Oregon State,Beavers,Pac-12,981.8712720520953,3 - 5
+184,185,CMICH,Central Michigan,Chippewas,Mid-American,981.1285231495634,3 - 4
+311,312,GRMBST,Grambling State,Tigers,Southwestern Athletic,981.1176428899657,3 - 4
+187,188,WMICH,Western Michigan,Broncos,Mid-American,980.9585999222604,3 - 5
+293,294,INCAR,Incarnate Word,Cardinals,Southland,980.8729858469953,4 - 3
+629,750,DXST,Utah Tech,Trailblazers,Western Athletic,980.8122709201273,5 - 5
+149,150,WRGHT,Wright State,Raiders,Horizon League,980.6650295058394,4 - 4
+165,166,MONM,Monmouth,Hawks,Coastal Athletic Association,980.5305763876719,4 - 4
+139,140,FLINT,Florida International,Golden Panthers,Conference USA,980.3433236832911,3 - 3
+330,331,APPLST,Appalachian State,Mountaineers,Sun Belt,980.1830805040703,4 - 5
+341,342,SD,San Diego,Toreros,West Coast,980.1817039445378,3 - 4
+237,238,JAXST,Jacksonville State,Gamecocks,Conference USA,980.0178715156637,3 - 3
+277,278,MSPST,Mississippi State,Bulldogs,Southeastern,978.8282056947442,3 - 3
+328,329,GAS,Georgia Southern,Eagles,Sun Belt,978.7037797642851,4 - 5
+207,208,MSRST,Missouri State,Bears,Conference USA,978.6133867917132,4 - 3
+102,103,RUTGER,Rutgers,Scarlet Knights,Big Ten,978.5025581542486,5 - 3
+132,133,DEL,Delaware,Fightin' Blue Hens,Conference USA,978.1786322738222,2 - 4
+168,169,STPETE,Saint Peter's,Peacocks,Metro Atlantic Athletic,978.0284407538826,2 - 4
+128,129,CHAR,Charleston,Cougars,Coastal Athletic Association,977.836478872835,4 - 5
+362,396,NAL,North Alabama,Lions,Atlantic Sun,977.813116344602,3 - 4
+878,1025,BELLA,Bellarmine,Knights,Atlantic Sun,977.7831393500107,3 - 4
+89,90,CAMP,Campbell,Fighting Camels,Coastal Athletic Association,977.6426306158896,3 - 4
+164,165,DART,Dartmouth,Big Green,Ivy League,977.5628891427757,2 - 3
+256,257,BUCK,Bucknell,Bison,Patriot League,977.5126963465382,2 - 7
+313,314,SDKST,South Dakota State,Jackrabbits,Summit,977.3948489662035,4 - 4
+185,186,NILL,Northern Illinois,Huskies,Mid-American,977.3845320513777,3 - 4
+297,298,CARK,Central Arkansas,Bears,Atlantic Sun,977.2983501502857,3 - 5
+170,171,MANH,Manhattan,Jaspers,Metro Atlantic Athletic,977.2090203171524,3 - 5
+312,313,PVAM,Prairie View A&M,Panthers,Southwestern Athletic,977.0389900111151,4 - 4
+620,741,JAC,Lindenwood,Lions,Ohio Valley,976.9347175235854,3 - 4
+120,121,CSUNR,CSUN,Matadors,Big West,976.7469025484254,3 - 4
+263,264,HOLY,Holy Cross,Crusaders,Patriot League,976.7467746320843,2 - 6
+150,151,WBD,Milwaukee,Panthers,Horizon League,976.4661134708007,3 - 5
+146,147,UTSA,UTSA,Roadrunners,American,976.2109621848713,4 - 4
+162,163,BROWN,Brown,Bears,Ivy League,976.1741547875349,3 - 5
+148,149,OAK,Oakland,Golden Grizzlies,Horizon League,975.693243864276,3 - 5
+1286,1453,NHVN,New Haven,Chargers,Northeast,975.3879056144186,5 - 4
+296,297,NO,New Orleans,Privateers,Southland,974.8643480856384,3 - 5
+103,104,MINNST,Minnesota,Golden Gophers,Big Ten,974.3262125605861,4 - 4
+42,43,SCUP,USC Upstate,Spartans,Big South,973.8651671581773,4 - 5
+141,142,CHARLT,Charlotte,49ers,American,973.2647408255125,3 - 5
+289,290,VAMIL,VMI,Keydets,Southern,972.8565821414936,3 - 7
+36,37,JAX,Jacksonville,Dolphins,Atlantic Sun,972.7859417569944,3 - 4
+121,122,CALPOL,Cal Poly,Mustangs,Big West,972.5201325545111,4 - 5
+29,30,SYRA,Syracuse,Orange,Atlantic Coast,972.4120161995241,4 - 3
+188,189,HAMP,Hampton,Pirates,Coastal Athletic Association,972.3752439330325,3 - 5
+393,427,LEMYN,Le Moyne,Dolphins,Northeast,972.164797029315,4 - 5
+285,286,NCG,UNCG,Spartans,Southern,972.1217590615365,1 - 7
+265,266,LAFAY,Lafayette,Leopards,Patriot League,971.799367303149,2 - 7
+88,89,PRESB,Presbyterian,Blue Hose,Big South,971.5387699747579,5 - 5
+287,288,CITA,The Citadel,Bulldogs,Southern,971.147218985875,2 - 6
+183,184,BALLST,Ball State,Cardinals,Mid-American,971.1399905423339,3 - 5
+255,256,WASHST,Washington State,Cougars,Pac-12,971.0339280848772,3 - 5
+221,222,SJST,San Jose State,Spartans,Mountain West,970.9741249111366,3 - 5
+310,311,ALAST,Alabama State,Hornets,Southwestern Athletic,970.7433842642433,3 - 5
+217,218,UNLV,UNLV,Runnin' Rebels,Mountain West,970.5884868232619,3 - 5
+122,123,CSUFL,Cal State Fullerton,Titans,Big West,970.4692689032034,3 - 5
+194,195,HOWRD,Howard,Bison,Mid-Eastern,970.4290173525801,4 - 5
+348,350,UTRGV,Texas-Rio Grande Valley,Vaqueros,Southland,970.3788544735893,2 - 4
+174,175,NIAGRA,Niagara,Purple Eagles,Metro Atlantic Athletic,970.2691759258307,2 - 5
+64,65,MARQ,Marquette,Golden Eagles,Big East,970.2591511093641,4 - 4
+913,1062,MRCY,Mercyhurst,Lakers,Northeast,969.9776675867246,3 - 5
+62,63,PROV,Providence,Friars,Big East,969.7614452223243,4 - 4
+151,152,GB,Green Bay,Phoenix,Horizon League,969.186739582173,4 - 5
+826,962,QUEEN,Queens (NC),Royals,Atlantic Sun,968.8369167664607,3 - 5
+220,221,AIRF,Air Force,Falcons,Mountain West,967.9212073255903,3 - 6
+38,39,NJIT,NJIT,Highlanders,America East,967.0930379563222,3 - 6
+318,319,DEN,Denver,Pioneers,Summit,966.0856219895361,2 - 5
+304,305,SOUTH,Southern,Jaguars,Southwestern Athletic,965.5443863645896,3 - 4
+1053,1212,USI,Southern Indiana,Screaming Eagles,Ohio Valley,964.5969435401761,3 - 5
+235,236,MHST,Morehead State,Eagles,Ohio Valley,963.3470937657648,3 - 5
+73,74,MONST,Montana State,Bobcats,Big Sky,963.1015065748693,3 - 5
+56,57,LASAL,La Salle,Explorers,Atlantic 10,963.0297079853656,3 - 6
+137,138,OLD,Old Dominion,Monarchs,Sun Belt,962.8723600424198,3 - 6
+8,9,ECAR,East Carolina,Pirates,American,960.7839732217066,2 - 5
+316,317,IUPUI,IU Indy,Jaguars,Horizon League,960.4405774361298,3 - 6
+222,223,WAG,Wagner,Seahawks,Northeast,960.4140466935997,1 - 5
+190,191,NORFST,Norfolk State,Spartans,Mid-Eastern,960.1973685690344,4 - 5
+690,817,MERRI,Merrimack College,Warriors,Metro Atlantic Athletic,960.0658847814733,3 - 6
+299,300,SELOU,Southeastern Louisiana,Lions,Southland,959.6917078998107,3 - 5
+76,77,SACST,Sacramento State,Hornets,Big Sky,959.3070975477902,4 - 5
+336,337,PEPP,Pepperdine,Waves,West Coast,958.9357416546987,3 - 5
+138,139,UTEP,UTEP,Miners,Conference USA,958.7595490432366,3 - 4
+145,146,RICE,Rice,Owls,American,958.6879695004784,3 - 6
+314,315,IPFW,Purdue Fort Wayne,Mastodons,Horizon League,958.4452979576201,4 - 5
+225,226,MSTM,Mount St. Mary's,Mountaineers,Metro Atlantic Athletic,958.2927703710889,2 - 6
+70,71,NDAK,North Dakota,Fighting Hawks,Summit,957.1874963939515,3 - 6
+238,239,EILL,Eastern Illinois,Panthers,Ohio Valley,956.7682331361874,2 - 5
+40,41,STETSN,Stetson,Hatters,Atlantic Sun,956.7099032183824,3 - 6
+233,234,TENTCH,Tennessee Tech,Golden Eagles,Ohio Valley,955.8031237652135,3 - 5
+192,193,MDES,Maryland Eastern Shore,Hawks,Mid-Eastern,955.5670910793694,4 - 6
+197,198,FLAM,Florida A&M,Rattlers,Southwestern Athletic,954.939807078513,0 - 4
+202,203,EVANS,Evansville,Aces,Missouri Valley,954.864731642487,3 - 5
+319,320,ORAL,Oral Roberts,Golden Eagles,Summit,954.7003362586429,3 - 6
+303,304,TXS,Texas Southern,Tigers,Southwestern Athletic,954.6330992774939,1 - 5
+322,323,ARLR,Little Rock,Trojans,Ohio Valley,954.1269547937216,2 - 5
+35,36,NFL,North Florida,Ospreys,Atlantic Sun,954.09939908952,2 - 5
+226,227,SACRED,Sacred Heart,Pioneers,Metro Atlantic Athletic,953.712101385347,2 - 5
+242,243,SEMST,Southeast Missouri State,Redhawks,Ohio Valley,953.3872115019143,2 - 6
+291,292,TAMU,Texas A&M-Corpus Christi,Islanders,Southland,952.7823186617713,2 - 5
+179,180,OHIO,Ohio,Bobcats,Mid-American,951.1386235085755,1 - 6
+230,231,BRYANT,Bryant,Bulldogs,America East,950.9525128580568,2 - 6
+315,316,NEOM,Omaha,Mavericks,Summit,949.9915229256485,3 - 6
+236,237,EKENT,Eastern Kentucky,Colonels,Atlantic Sun,949.3440120385562,1 - 6
+15,16,MASLOW,Massachusetts-Lowell,River Hawks,America East,949.2703894201062,3 - 6
+116,117,LBST,Long Beach State,Beach,Big West,949.1209936692852,2 - 6
+191,192,BCOOK,Bethune-Cookman,Wildcats,Southwestern Athletic,948.9875910136032,2 - 6
+152,153,DET,Detroit,Titans,Horizon League,948.5178969075918,2 - 6
+85,86,RADF,Radford,Highlanders,Big South,948.2971826383534,3 - 6
+172,173,RIDER,Rider,Broncs,Metro Atlantic Athletic,946.7297329035782,1 - 5
+159,160,PRNCE,Princeton,Tigers,Ivy League,945.8706750496759,3 - 7
+155,156,CLVST,Cleveland State,Vikings,Horizon League,945.564726870026,3 - 6
+12,13,ALBNY,Albany,Great Danes,America East,944.8770474994045,3 - 6
+223,224,FAIRDK,Fairleigh Dickinson,Knights,Northeast,944.3379314864908,1 - 6
+69,70,EWASH,Eastern Washington,Eagles,Big Sky,944.1525469889016,1 - 6
+305,306,JACKST,Jackson State,Tigers,Southwestern Athletic,943.892481180555,1 - 6
+321,322,WILL,Western Illinois,Leathernecks,Ohio Valley,941.428423929411,2 - 6
+77,78,SUTAH,Southern Utah,Thunderbirds,Western Athletic,941.2650976325078,3 - 6
+323,324,LOULAF,Louisiana-Lafayette,Ragin' Cajuns,Sun Belt,941.1146961327631,1 - 7
+325,326,LAMON,Louisiana-Monroe,Warhawks,Sun Belt,940.7041029454055,1 - 6
+301,302,NICHLS,Nicholls,Colonels,Southland,940.4121090536423,0 - 6
+198,199,MORGST,Morgan State,Bears,Mid-Eastern,940.0715376718462,1 - 6
+1054,1213,STNH,Stonehill,Skyhawks,Northeast,939.8652639980528,2 - 7
+300,301,NWST,Northwestern State,Demons,Southland,938.9805550121015,1 - 6
+13,14,NHAMP,New Hampshire,Wildcats,America East,938.7075706583794,2 - 6
+196,197,NCC,North Carolina Central,Eagles,Mid-Eastern,937.8530637117178,3 - 6
+357,362,UMKC,Kansas City,Roos,Summit,937.6492729853088,1 - 6
+208,209,LOYCH,Loyola Chicago,Ramblers,Atlantic 10,937.5123953100172,1 - 7
+19,20,BING,Binghamton,Bearcats,America East,937.3970023020038,2 - 6
+224,225,STFPA,St. Francis (PA),Red Flash,Northeast,936.5843106221249,1 - 6
+327,328,GAST,Georgia State,Panthers,Sun Belt,931.8884687987415,1 - 7
+189,190,SCARST,South Carolina State,Bulldogs,Mid-Eastern,928.8602482649379,0 - 8
+199,200,COPPST,Coppin State,Eagles,Mid-Eastern,928.7589046263313,2 - 8
+307,308,MSVLST,Mississippi Valley State,Delta Devils,Southwestern Athletic,927.737804494026,1 - 7
+306,307,ALCST,Alcorn State,Braves,Southwestern Athletic,927.1383949147403,1 - 8
+200,201,DELST,Delaware State,Hornets,Mid-Eastern,926.2941463832236,2 - 7
+349,351,CHIST,Chicago State,Cougars,Northeast,920.2975527772666,0 - 8
+309,310,ARPB,Arkansas-Pine Bluff,Golden Lions,Southwestern Athletic,920.2529875399342,0 - 8
+16,17,MAINE,Maine,Black Bears,America East,919.1034521451649,0 - 9
+82,83,GARDWB,Gardner-Webb,Runnin' Bulldogs,Big South,911.7479149172202,0 - 9
 999,1152,OHWES,Ohio Wesleyan,Battling Bishops,n/a,100.0,0 - 1
-1000,1153,ASC,Agnes Scott College,Scotties,n/a,100.0,0 - 0
+996,1149,ELIZ,Elizabethtown,Blue Jays,n/a,100.0,0 - 0
+997,1150,ARKBA,Arkansas Baptist,Buffaloes,n/a,100.0,0 - 1
+995,1148,GWYM,Gwynedd Mercy,Griffins,n/a,100.0,0 - 1
+998,1151,UDC,District of Columbia,Firebirds,n/a,100.0,0 - 1
+994,1147,VULYN,VU of Lynchburg,Dragons,n/a,100.0,0 - 5
+1014,1167,GRCHR,Grace Christian,Tigers,n/a,100.0,0 - 0
+1011,1164,WRCT,Worcester Tech,Engineers,n/a,100.0,0 - 0
+1010,1163,INWESL,Indiana Wesleyan,Wildcats,n/a,100.0,0 - 0
 1001,1154,IMM,Immaculata,Mighty Macs,n/a,100.0,0 - 0
 1002,1155,TAMK,Texas A&M-Kingsville,Javelinas,n/a,100.0,0 - 0
-997,1150,ARKBA,Arkansas Baptist,Buffaloes,n/a,100.0,0 - 1
-970,1123,AINTL,American International,Yellow Jackets,n/a,100.0,0 - 0
+1003,1156,GEOKY,Georgetown (KY),Tigers,n/a,100.0,0 - 0
 1004,1157,PSALG,Penn State-Allegheny,Nittany Lions,n/a,100.0,0 - 0
+1005,1158,OHVY,Ohio Valley,Fighting Scots,n/a,100.0,0 - 0
 1006,1159,USAO,University of Science and Arts of Oklahoma,Drovers,n/a,100.0,0 - 0
 1007,1160,OT,Oregon Tech,Hustlin' Owls,n/a,100.0,0 - 0
 1008,1161,KCPA,King's College (PA),Monarchs,n/a,100.0,0 - 0
-1009,1162,WELLS,Wells College,Express,n/a,100.0,0 - 0
-1010,1163,INWESL,Indiana Wesleyan,Wildcats,n/a,100.0,0 - 0
-1011,1164,WRCT,Worcester Tech,Engineers,n/a,100.0,0 - 0
-1012,1165,PSBEH,Penn State-Behrend,Lions,n/a,100.0,0 - 0
-1013,1166,FRANK,Franklin,Grizzlies,n/a,100.0,0 - 1
-965,1118,BARC,Barclay College,Bears,n/a,100.0,0 - 0
-1014,1167,GRCHR,Grace Christian,Tigers,n/a,100.0,0 - 0
-1005,1158,OHVY,Ohio Valley,Fighting Scots,n/a,100.0,0 - 0
-967,1120,BAB,Babson,Beavers,n/a,100.0,0 - 0
 993,1146,SALB,Salisbury,Sea Gulls,n/a,100.0,0 - 0
+1009,1162,WELLS,Wells College,Express,n/a,100.0,0 - 0
+1013,1166,FRANK,Franklin,Grizzlies,n/a,100.0,0 - 1
+1012,1165,PSBEH,Penn State-Behrend,Lions,n/a,100.0,0 - 0
+965,1118,BARC,Barclay College,Bears,n/a,100.0,0 - 0
+1000,1153,ASC,Agnes Scott College,Scotties,n/a,100.0,0 - 0
+1016,1169,MIVIL,Millersville,Marauders,n/a,100.0,0 - 0
 992,1145,SUNYNP,SUNY New Paltz,Hawks,n/a,100.0,0 - 0
+991,1144,REGC,Regis College,Pride,n/a,100.0,0 - 1
+966,1119,CEMET,Central Methodist,Eagles,n/a,100.0,0 - 0
+967,1120,BAB,Babson,Beavers,n/a,100.0,0 - 0
+968,1121,DILD,Dillard,Blue Devils,n/a,100.0,0 - 0
+969,1122,NENGD,New England,Nor'Easters,n/a,100.0,0 - 0
+970,1123,AINTL,American International,Yellow Jackets,n/a,100.0,0 - 0
+971,1124,NEUM,Neumann,Knights,n/a,100.0,0 - 0
 972,1125,GUIL,Guilford,Quakers,n/a,100.0,0 - 0
 973,1126,HANO,Hanover,Panthers,n/a,100.0,0 - 1
 974,1127,DEPAUW,DePauw,Tigers,n/a,100.0,0 - 0
 975,1128,WISSUP,Wisconsin-Superior,Yellowjackets,n/a,100.0,0 - 0
-1016,1169,MIVIL,Millersville,Marauders,n/a,100.0,0 - 0
 976,1129,ROOS,Roosevelt,Lakers,n/a,100.0,0 - 0
 977,1130,MORAV,Moravian,Greyhounds,n/a,100.0,0 - 0
 978,1131,MINDU,Minnesota Duluth,Bulldogs,n/a,100.0,0 - 0
@@ -404,19 +409,14 @@
 982,1135,ERIE,Lake Erie,Storm,n/a,100.0,0 - 0
 983,1136,STJME,St. Josephs (ME),Monks,n/a,100.0,0 - 0
 984,1137,CCC,Carolina Christian,Centurians,n/a,100.0,0 - 0
-969,1122,NENGD,New England,Nor'Easters,n/a,100.0,0 - 0
 985,1138,KNOX,Knox,Prarie Fire,n/a,100.0,0 - 0
-966,1119,CEMET,Central Methodist,Eagles,n/a,100.0,0 - 0
 986,1139,KEYST,Keystone,Giants,n/a,100.0,0 - 0
 987,1140,MARB,Mary Baldwin,Fighting Squirrels,n/a,100.0,0 - 1
 988,1141,WEBSTER,Webster,Gorloks,n/a,100.0,0 - 2
 989,1142,BETIN,Bethel (IN),Pilots,n/a,100.0,0 - 0
 990,1143,CLINT,Clinton,Golden Bears,n/a,100.0,0 - 0
-968,1121,DILD,Dillard,Blue Devils,n/a,100.0,0 - 0
-971,1124,NEUM,Neumann,Knights,n/a,100.0,0 - 0
-991,1144,REGC,Regis College,Pride,n/a,100.0,0 - 0
 1015,1168,JNCRL,John Carroll,Blue Streaks,n/a,100.0,0 - 0
-1072,1231,HNLG,Hannibal-LaGrange,Trojans,n/a,100.0,0 - 0
+1063,1222,NRVJ,Northern Vermont-Johnson,Badgers,n/a,100.0,0 - 1
 1017,1170,LOAKS,Lincoln (CA),Oaks,n/a,100.0,0 - 3
 1062,1221,SALM,Salem College,Spirits,n/a,100.0,0 - 0
 1048,1207,UNNY,Union,Chargers,n/a,100.0,0 - 0
@@ -426,12 +426,12 @@
 1052,1211,TAY,Taylor University,Trojans,n/a,100.0,0 - 0
 1055,1214,LCHB,Lynchburg,Hornets,n/a,100.0,0 - 1
 1056,1215,VCSV,Valley City State,Vikings,n/a,100.0,0 - 0
-1057,1216,SARL,Sarah Lawrence,Gryphons,n/a,100.0,0 - 0
+1057,1216,SARL,Sarah Lawrence,Gryphons,n/a,100.0,0 - 1
 1058,1217,CHPM,Chapman,Panthers,n/a,100.0,0 - 0
 1059,1218,FULT,Fulton-Montgomery,Raiders,n/a,100.0,0 - 0
 1060,1219,MRCM,Mercy,Mavericks,n/a,100.0,0 - 1
 1061,1220,CMAR,California-Maritime,Keelhaulers,n/a,100.0,0 - 0
-1063,1222,NRVJ,Northern Vermont-Johnson,Badgers,n/a,100.0,0 - 1
+963,1116,VAS,Vassar,Brewers,n/a,100.0,0 - 1
 1018,1171,KEUKA,Keuka,Storm,n/a,100.0,0 - 0
 1064,1223,BKRS,Bakersfield College,Renegades,n/a,100.0,0 - 0
 1065,1224,TUFT,Tufts,Jumbos,n/a,100.0,0 - 0
@@ -441,7 +441,7 @@
 1069,1228,LYNN,Lynn,Fighting Knights,n/a,100.0,0 - 0
 1070,1229,OCHT,Ouachita Baptist,Tigers,n/a,100.0,0 - 0
 1071,1230,SCKY,Simmons College Of Kentucky,Falcons,n/a,100.0,0 - 0
-963,1116,VAS,Vassar,Brewers,n/a,100.0,0 - 1
+1072,1231,HNLG,Hannibal-LaGrange,Trojans,n/a,100.0,0 - 0
 1073,1232,NWIN,Northwest Indian,Eagles,n/a,100.0,0 - 3
 1074,1233,MAST,Masters College,Mustangs,n/a,100.0,0 - 0
 1075,1234,ITHA,Ithaca College,Bombers,n/a,100.0,0 - 0
@@ -475,15 +475,15 @@
 1042,1201,MCLA,Mass College of Liberal Arts,Trailblazers,n/a,100.0,0 - 0
 1043,1202,UNTD,North Texas-Dallas,Trailblazers,n/a,100.0,0 - 1
 964,1117,MAFARM,Maine-Farmington,Beavers,n/a,100.0,0 - 0
-897,1046,TIU,Trinity International,Trojans,n/a,100.0,0 - 0
+910,1059,KEENE,Keene State,Owls,n/a,100.0,0 - 0
 962,1115,IAW,Iowa Wesleyan,Tigers,n/a,100.0,0 - 0
 885,1034,LIME,Limestone,Saints,n/a,100.0,0 - 0
-871,1017,CRC,Crowley's Ridge College,Pioneers,n/a,100.0,0 - 0
 872,1018,VST,Virginia State,Trojans,n/a,100.0,1 - 0
 873,1019,VUP,Virginia Union,Panthers,n/a,100.0,0 - 0
 874,1020,CUP,Clafin,Panthers,n/a,100.0,0 - 0
 875,1021,OHC,Oak Hill Christian,Wolfpack,n/a,100.0,0 - 0
 876,1023,DEA,Dean College,Bulldogs,n/a,100.0,0 - 0
+841,984,HASKELL,Haskell Indian Nations,Fighting Indians,n/a,100.0,0 - 0
 879,1028,BEL,Belhaven,Blazers,n/a,100.0,0 - 0
 880,1029,INDY,Indianapolis,Greyhounds,n/a,100.0,0 - 0
 881,1030,VAW,VA Wesleyan,Blue Marlins,n/a,100.0,0 - 0
@@ -491,10 +491,10 @@
 883,1032,ADAMS,Adams State,Grizzlies,n/a,100.0,0 - 1
 884,1033,NG,North Georgia,Saints,n/a,100.0,0 - 0
 886,1035,LBC,Lancaster Bible College,Chargers,n/a,100.0,0 - 1
-869,1014,MSR,Metropolitan State,Roadrunners,n/a,100.0,0 - 0
+870,1016,RUTC,Rutgers-Camden,Scarlet Raptors,n/a,100.0,0 - 1
 887,1036,SHRE,LSU-Shreveport,Pilots,n/a,100.0,0 - 0
 888,1037,GSW,Georgia Southwestern State,Hurricanes,n/a,100.0,0 - 0
-889,1038,CARO,Carolina,Bruins,n/a,100.0,0 - 2
+889,1038,CARO,Carolina,Bruins,n/a,100.0,0 - 3
 890,1039,RIC,Rhode Island College,Anchormen,n/a,100.0,0 - 0
 891,1040,MHB,Mary Hardin-Baylor,Crusaders,n/a,100.0,0 - 0
 892,1041,TAMT,Texas A&M-Texarkana,Eagles,n/a,100.0,0 - 0
@@ -502,12 +502,12 @@
 894,1043,EMM,Emmanuel,Lions,n/a,100.0,0 - 0
 895,1044,CSC,Columbus State,Cougars,n/a,100.0,0 - 0
 896,1045,EVA,Evangel ,Valor,n/a,100.0,0 - 1
+897,1046,TIU,Trinity International,Trojans,n/a,100.0,0 - 0
 898,1047,TUP,Transylvania,Pioneers,n/a,100.0,0 - 0
-899,1048,BCRR,Bluefield College,Ramblin' Rams,n/a,100.0,0 - 1
-870,1016,RUTC,Rutgers-Camden,Scarlet Raptors,n/a,100.0,0 - 1
-868,1013,ECKC,Eckerd College,Tritons,n/a,100.0,0 - 0
+871,1017,CRC,Crowley's Ridge College,Pioneers,n/a,100.0,0 - 0
+869,1014,MSR,Metropolitan State,Roadrunners,n/a,100.0,0 - 0
 961,1114,CMS,Claremont-Mudd-Scripps,Stags,n/a,100.0,0 - 0
-852,995,SJM,Saint John's (MN),Johnnies,n/a,100.0,0 - 0
+853,996,UWW,Wisconsin-Whitewater,Warhawks,n/a,100.0,0 - 0
 843,986,PSY,Penn State-York,Nittany Lions,n/a,100.0,0 - 1
 842,985,HFAMILY,Holy Family College,Lakers,n/a,100.0,0 - 0
 1077,1236,STAUG,St. Augustine,Falcons,n/a,100.0,0 - 0
@@ -518,11 +518,10 @@
 848,991,PLN,Point Loma Nazarene,Sea Lions,n/a,100.0,0 - 0
 849,992,MUHL,Muhlenberg,Mules,n/a,100.0,0 - 0
 850,993,MSM,Minnesota State-Mankato,Mavericks,n/a,100.0,0 - 0
-841,984,HASKELL,Haskell Indian Nations,Fighting Indians,n/a,100.0,0 - 0
 851,994,SRU,Slippery Rock,Rock,n/a,100.0,0 - 0
-853,996,UWW,Wisconsin-Whitewater,Warhawks,n/a,100.0,0 - 0
-867,1012,NTHW,Northwood,Timberwolves,n/a,100.0,1 - 0
+852,995,SJM,Saint John's (MN),Johnnies,n/a,100.0,0 - 0
 854,997,UWF,West Florida,Argonauts,n/a,100.0,0 - 0
+868,1013,ECKC,Eckerd College,Tritons,n/a,100.0,0 - 0
 855,998,FSB,Ferris State,Bulldogs,n/a,100.0,0 - 0
 856,999,CLRK,Clark,Cougars,n/a,100.0,0 - 0
 857,1000,SUB,Shaw,Bears,n/a,100.0,0 - 1
@@ -534,9 +533,10 @@
 863,1006,CUI,Concordia-Irvine,Eagles,n/a,100.0,0 - 0
 865,1009,SHP,Shippensburg,Raiders,n/a,100.0,0 - 0
 866,1011,UCCS,Colorado-Colorado Springs,Mountain Lions,n/a,100.0,0 - 0
+867,1012,NTHW,Northwood,Timberwolves,n/a,100.0,1 - 0
+899,1048,BCRR,Bluefield College,Ramblin' Rams,n/a,100.0,0 - 1
 900,1049,PUG,Park-Gilbert,Buccaneers,n/a,100.0,0 - 1
 901,1050,LCST,Lewis Clark State,Warriors,n/a,100.0,0 - 0
-902,1051,CCGA,College of Coastal Georgia,Mariners,n/a,100.0,0 - 2
 946,1098,SVK,Southern Virginia,Knights,n/a,100.0,0 - 2
 934,1084,COR,Cornerstone,Golden Eagles,n/a,100.0,0 - 0
 935,1085,CCMC,Columbia College,Cougars,n/a,100.0,0 - 0
@@ -551,8 +551,8 @@
 944,1096,SWAD,Southwestern Adventist,Knights,n/a,100.0,0 - 2
 945,1097,GRGF,George Fox,Bruins,n/a,100.0,0 - 0
 947,1099,SCR,Shepherd College,Rams,n/a,100.0,0 - 0
-903,1052,LUM,Lincoln (MO),Blue Tigers,n/a,100.0,0 - 0
-948,1100,NESTST,Northeastern State,RiverHawks,n/a,100.0,0 - 0
+902,1051,CCGA,College of Coastal Georgia,Mariners,n/a,100.0,0 - 2
+948,1100,NESTST,Northeastern State,RiverHawks,n/a,100.0,0 - 1
 949,1101,WTAM,West Texas A&M,Buffaloes,n/a,100.0,0 - 0
 950,1102,NMSU,Northwest Missouri State University,Bearcats,n/a,100.0,0 - 0
 951,1103,CONCMN,Concordia-Moorhead,Cobbers,n/a,100.0,0 - 0
@@ -568,16 +568,16 @@
 932,1082,YCC,Yellowstone Christian College,Centurions,n/a,100.0,0 - 0
 931,1081,CSUP,Colorado State-Pueblo,ThunderWolves,n/a,100.0,0 - 0
 930,1080,FHSU,Fort Hays State,Tigers,n/a,100.0,0 - 0
+903,1052,LUM,Lincoln (MO),Blue Tigers,n/a,100.0,0 - 0
 904,1053,LURE,Life,Running Eagles,n/a,100.0,0 - 0
 905,1054,MIDWS,Midwestern State,Mustangs,n/a,100.0,0 - 1
 906,1055,SCA,SC Aiken,Pacers,n/a,100.0,0 - 0
 907,1056,NCPM,NC Pembroke,Braves,n/a,100.0,0 - 0
 908,1057,TAL,Talladega,Tornadoes,n/a,100.0,0 - 0
 909,1058,TUSC,Tusculum,Pioneers,n/a,100.0,0 - 1
-910,1059,KEENE,Keene State,Owls,n/a,100.0,0 - 0
 911,1060,FTLAUD,Fort Lauderdale,Eagles,n/a,100.0,0 - 2
 912,1061,TRINE,Trine,Thunder,n/a,100.0,0 - 0
-914,1063,STAMB,St. Ambrose,Fighting Bees,n/a,100.0,0 - 0
+914,1063,STAMB,St. Ambrose,Fighting Bees,n/a,100.0,0 - 1
 915,1064,ACU,Arizona Christian,Firestorm,n/a,100.0,0 - 0
 916,1065,WSHB,Washburn,Ichabods,n/a,100.0,0 - 0
 917,1066,NEWM,Newman,Jets,n/a,100.0,0 - 0
@@ -606,7 +606,7 @@
 1238,1404,NELSON,Nelson,Lions,n/a,100.0,0 - 0
 1239,1405,MANORC,Manor College,Blue Jays,n/a,100.0,0 - 0
 1240,1407,ENDC,Endicott College,Gulls,n/a,100.0,0 - 0
-1241,1408,PSSHEN,Penn State-Shenango,Nittany Lions,n/a,100.0,0 - 2
+1241,1408,PSSHEN,Penn State-Shenango,Nittany Lions,n/a,100.0,0 - 3
 1242,1409,PSFAY,Penn State-Fayette,Nittany Lions,n/a,100.0,0 - 0
 1243,1410,PSSCR,Penn State-Scranton,Nittany Lions,n/a,100.0,0 - 0
 1244,1411,NOBEL,Nobel,Knights,n/a,100.0,0 - 6
@@ -659,7 +659,7 @@
 1079,1238,LBVC,Lebanon Valley College,Dutchmen,n/a,100.0,0 - 0
 1262,1429,CHATC,Chatham,Cougars,n/a,100.0,0 - 0
 1294,1461,CSUMB,Cal State Monterey Bay,Otters,n/a,100.0,0 - 0
-1295,1462,LAWR,Lawrence,Vikings,n/a,100.0,0 - 0
+1295,1462,LAWR,Lawrence,Vikings,n/a,100.0,0 - 1
 1296,1463,CALPA,California (PA),Vulcans,n/a,100.0,0 - 0
 1297,1464,SCHO,St. Scholastica,Saints,n/a,100.0,0 - 1
 1298,1465,BARB,Barber-Scotia,Sabers,n/a,100.0,0 - 0
@@ -751,14 +751,14 @@
 1107,1266,FRMHM,Framingham State,Rams,n/a,100.0,0 - 0
 1092,1251,RCHST,Rochester,Yellowjackets,n/a,100.0,0 - 0
 1080,1239,RIT,RIT,Tigers,n/a,100.0,0 - 2
-1081,1240,KNTS,Kentucky State,Thorobreds,n/a,100.0,0 - 0
+1081,1240,KNTS,Kentucky State,Thorobreds,n/a,100.0,0 - 1
 1082,1241,ARCD,Arcadia,Knights,n/a,100.0,0 - 0
 1083,1242,TCNJ,The College of New Jersey,Lions,n/a,100.0,0 - 0
 1084,1243,ALBERTUS,Albertus Magnus,Falcons,n/a,100.0,0 - 0
 1085,1244,DYOU,D'Youville,Saints,n/a,100.0,0 - 0
 1086,1245,STJLI,St. Joseph's (NY-Long Island),Golden Eagles,n/a,100.0,0 - 1
 1087,1246,BETKS,Bethel (KS),Threshers,n/a,100.0,0 - 0
-1088,1247,MITCH,Mitchell College,Mariners,n/a,100.0,0 - 0
+1088,1247,MITCH,Mitchell College,Mariners,n/a,100.0,0 - 1
 1089,1248,JNSN,Johnson (TN),Royals,n/a,100.0,0 - 0
 1090,1249,MDNNA,Madonna,Crusaders,n/a,100.0,0 - 0
 1091,1250,OTTBN,Otterbein,Cardinals,n/a,100.0,0 - 0
@@ -938,7 +938,7 @@
 538,656,DES,DeSales,Bulldogs,n/a,100.0,0 - 1
 539,657,JWFL,Johnson & Wales (FL),Wildcats,n/a,100.0,0 - 0
 540,658,BLUMT,Blue Mountain College,Toppers,n/a,100.0,0 - 1
-541,660,OLLU,Our Lady of the Lake,Saints,n/a,100.0,0 - 0
+541,660,OLLU,Our Lady of the Lake,Saints,n/a,100.0,0 - 1
 542,661,JARVCH,Jarvis Christian,Bulldogs,n/a,100.0,0 - 2
 543,662,COCOL,Colorado College,Tigers,n/a,100.0,0 - 1
 544,663,SIMP,Simpson,Red Hawks,n/a,100.0,0 - 0
@@ -946,7 +946,7 @@
 547,667,NOPA,North Park,Vikings,n/a,100.0,0 - 0
 560,680,HEIDEL,Heidelberg,Student Princes,n/a,100.0,0 - 0
 548,668,CLAR,Clarion,Golden Eagles,n/a,100.0,0 - 0
-549,669,EMER,Emerson,Lions,n/a,100.0,0 - 0
+549,669,EMER,Emerson,Lions,n/a,100.0,0 - 1
 550,670,GOUC,Goucher,Gophers,n/a,100.0,0 - 0
 551,671,GOSH,Goshen,Maple Leafs,n/a,100.0,0 - 0
 552,672,WESLEY,Wesley College,Wolverines,n/a,100.0,0 - 0
@@ -1014,13 +1014,13 @@
 370,404,WILCAR,William Carey,Crusaders,n/a,100.0,0 - 2
 371,405,PINE,Pine Manor,Gators,n/a,100.0,0 - 0
 372,406,STEDWA,St. Edwards,Hilltoppers,n/a,100.0,0 - 0
-373,407,TRINB,Trinity Baptist,Eagles,n/a,100.0,0 - 0
+373,407,TRINB,Trinity Baptist,Eagles,n/a,100.0,0 - 1
 374,408,EWUN,East-West,Phantoms,n/a,100.0,0 - 1
 375,409,SDCHR,San Diego Christian,Hawks,n/a,100.0,0 - 0
 376,410,HTILLO,Huston-Tillotson,Rams,n/a,100.0,0 - 1
 409,445,DUB,Dubuque,Spartans,n/a,100.0,0 - 0
 410,446,HSST,Harris-Stowe,Hornets,n/a,100.0,0 - 0
-411,447,MIDAMC,Mid-America Christian,Evangels,n/a,100.0,0 - 0
+411,447,MIDAMC,Mid-America Christian,Evangels,n/a,100.0,0 - 1
 455,491,JWCO,Johnson & Wales (CO),Wildcats,n/a,100.0,0 - 0
 443,479,SONO,Sonoma State,Seawolves,n/a,100.0,0 - 0
 444,480,NWCOLL,Northwest,Eagles,n/a,100.0,0 - 0
@@ -1044,7 +1044,7 @@
 462,499,MEMAC,Maine-Machias,Clippers,n/a,100.0,0 - 0
 463,500,SECOL,Southeastern,Fire,n/a,100.0,0 - 0
 464,501,NWOHIO,Northwestern Ohio,Racers,n/a,100.0,0 - 0
-465,502,FRANU,Franciscan,Barons,n/a,100.0,0 - 0
+465,502,FRANU,Franciscan,Barons,n/a,100.0,0 - 1
 466,503,CDRVL,Cedarville,Yellow Jackets,n/a,100.0,0 - 0
 467,504,GCSU,Georgia College & State,Bobcats,n/a,100.0,0 - 0
 468,505,STLEO,St. Leo,Lions,n/a,100.0,0 - 0
@@ -1149,8 +1149,8 @@
 813,948,EASTERN,Eastern,Eagles,n/a,100.0,0 - 1
 814,949,RIO,Rio Grande ,Red Storm,n/a,100.0,0 - 0
 815,950,MARTY,Mount Marty,Lancers,n/a,100.0,0 - 0
-816,952,WES,Tennessee Wesleyan,Bulldogs,n/a,100.0,0 - 1
-817,953,HASK,Haskell,Jayhawks,n/a,100.0,0 - 1
+816,952,WES,Tennessee Wesleyan,Bulldogs,n/a,100.0,0 - 2
+817,953,HASK,Haskell,Jayhawks,n/a,100.0,0 - 2
 818,954,SUMMIT,Clarks Summit,Defenders,n/a,100.0,0 - 0
 819,955,GANNON,Gannon,Golden Knights,n/a,100.0,0 - 0
 820,956,FAMILY,Holy Family,Tigers,n/a,100.0,0 - 0
@@ -1188,7 +1188,7 @@
 793,926,ROGERS,Rogers State,Hillcats,n/a,100.0,0 - 0
 806,939,EUREKA,Eureka,Red Devils,n/a,100.0,0 - 0
 794,927,CORN,Cornell College,Rams,n/a,100.0,0 - 0
-795,928,RED,Redlands,Bulldogs,n/a,100.0,0 - 0
+795,928,RED,Redlands,Bulldogs,n/a,100.0,0 - 1
 796,929,BLUE,Bluefield State,Big Blues,n/a,100.0,0 - 1
 797,930,CONCC,Concord College,Mountain Lions,n/a,100.0,0 - 0
 798,931,LESLEY,Lesley,Lynx,n/a,100.0,0 - 0
@@ -1214,7 +1214,7 @@
 634,755,LAV,La Verne,Leopards,n/a,100.0,0 - 1
 635,756,OBER,Oberlin College,Yeomen,n/a,100.0,0 - 0
 636,757,FLOR,Florida National,Conquistadors,n/a,100.0,0 - 1
-637,758,JOWAL,Johnson & Wales (RI),Wildcats,n/a,100.0,0 - 0
+637,758,JOWAL,Johnson & Wales (RI),Wildcats,n/a,100.0,0 - 1
 638,759,MCGI,McGill,Redmen,n/a,100.0,0 - 0
 639,760,DCKSNS,Dickinson State,Blue Hawks,n/a,100.0,0 - 0
 640,761,SKIDMO,Skidmore,Thoroughbreds,n/a,100.0,0 - 0
@@ -1241,7 +1241,7 @@
 598,718,WMETTE,Willamette,Bearcats,n/a,100.0,0 - 1
 599,719,WAL,West Alabama,Tigers,n/a,100.0,0 - 0
 600,720,DEF,Defiance,Yellow Jackets,n/a,100.0,0 - 1
-601,721,ONEO,SUNY-Oneonta,Red Dragons,n/a,100.0,0 - 0
+601,721,ONEO,SUNY-Oneonta,Red Dragons,n/a,100.0,0 - 2
 602,722,ECC,Ecclesia,Royals,n/a,100.0,0 - 2
 603,723,ENM,Eastern New Mexico,Greyhounds,n/a,100.0,0 - 0
 604,724,LEWCL,Lewis & Clark,Pioneers,n/a,100.0,0 - 0
@@ -1279,7 +1279,7 @@
 702,831,CNCUE,Cincinnati Christian,Eagles,n/a,100.0,0 - 0
 686,813,WESTMOW,Westmont,Warriors,n/a,100.0,0 - 0
 703,832,OLIVE,Olivet College,Comets,n/a,100.0,0 - 0
-704,833,NDMG,Notre Dame of Maryland,Gators,n/a,100.0,0 - 1
+704,833,NDMG,Notre Dame of Maryland,Gators,n/a,100.0,0 - 2
 705,834,CULV,Culver-Stockton,Wildcats,n/a,100.0,0 - 0
 706,835,TBKT,Thomas University,Terriers,n/a,100.0,0 - 0
 707,836,WARUR,Warner,Royals,n/a,100.0,0 - 0
